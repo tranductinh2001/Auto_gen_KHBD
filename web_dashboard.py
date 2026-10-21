@@ -21,6 +21,8 @@ from core.ai_exam_generator import AIExamGenerator
 from core.curriculum_planner import CurriculumPlanner
 from core.exam_exporters import ExamAuxiliaryExporter
 from core.study_guide_builder import StudyGuideBuilder, StudyGuideDocxExporter
+from core.khbd_ai_generator import KHBDAIGenerator
+from core.khbd_docx_exporter import KHBDDocxExporter
 
 def to_clean_slug(text: str) -> str:
     import unicodedata
@@ -359,12 +361,13 @@ else:
 
 st.markdown("---")
 
-# ----------------- 4 TABS CHỨC NĂNG CHÍNH -----------------
-tab1, tab2, tab3, tab4 = st.tabs([
+# ----------------- 5 TABS CHỨC NĂNG CHÍNH -----------------
+tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "📥 1. Trích xuất & Số hóa SGK (AI Vision)",
     "🌐 2. Quản lý Tri thức & Neo4j Graph DB",
     "📊 3. Phân tích Chương trình GDPT 2018",
-    "📝 4. Hỗ trợ Ra Đề Thi Tự Động"
+    "📝 4. Hỗ trợ Ra Đề Thi Tự Động",
+    "📑 5. Soạn KHBD Chuẩn 5512 & NLS (TT 02/2025)"
 ])
 
 # =========================================================
@@ -1536,3 +1539,305 @@ with tab4:
         st.warning("Hệ thống sinh đề thi trực tiếp từ các câu hỏi trong Neo4j. Vui lòng kết nối Neo4j Live để mở khóa tính năng này.")
     else:
         render_tab4_content()
+
+# =========================================================
+# TAB 5: SOẠN KHBD CHUẨN 5512 & NĂNG LỰC SỐ (TT 02/2025)
+# =========================================================
+def render_tab5_content():
+    import zipfile
+    st.markdown("""
+    <div style="background: linear-gradient(135deg, rgba(238, 242, 255, 0.95) 0%, rgba(224, 231, 255, 0.9) 100%); border: 1px solid #c7d2fe; border-radius: 14px; padding: 18px 24px; margin-bottom: 22px; box-shadow: 0 4px 15px rgba(99, 102, 241, 0.08);">
+        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 8px;">
+            <span style="background: #4338ca; color: white; padding: 3px 10px; border-radius: 20px; font-size: 0.8rem; font-weight: 700;">CHÍNH THỨC</span>
+            <span style="color: #4338ca; font-weight: 700; font-size: 0.95rem;">CÔNG VĂN 5512/BGDĐT-GDTrH • THÔNG TƯ 02/2025/TT-BGDĐT</span>
+        </div>
+        <h3 style="color: #1e1b4b; margin: 0 0 8px 0; font-family: 'Outfit', sans-serif;">Biên Soạn Kế Hoạch Bài Dạy (KHBD) Chuẩn & Tích Hợp Năng Lực Số (NLS)</h3>
+        <p style="color: #475569; margin: 0; font-size: 0.95rem; line-height: 1.5;">
+            Trợ lý AI chuyên sâu kết nối trực tiếp với <b>Beekone AI Engine</b> (mô hình tối ưu <code>gemini-3.1-flash-lite</code>), 
+            tự động đồng bộ với <b>Phân phối chương trình (PPCT)</b>, hỗ trợ soạn thảo <b>đơn lẻ</b> hoặc <b>hàng loạt (Batch)</b> 
+            với định dạng Word (.docx) chuẩn 100%: <b>chữ đỏ NLS</b>, <b>Table 0 chống rớt dòng tên GV</b> và <b>khối chữ ký chống tách trang</b>.
+        </p>
+    </div>
+    """, unsafe_allow_html=True)
+
+    # Khung cấu hình hành chính
+    with st.expander("⚙️ Cấu Hình Thông Tin Hành Chính & Phê Duyệt", expanded=True):
+        col_c1, col_c2, col_c3 = st.columns([1.2, 1.2, 1.2])
+        with col_c1:
+            st.markdown("##### 👨‍🏫 Thông Tin Giáo Viên")
+            t_name = st.text_input("Họ và tên giáo viên:", value="Trần Đức Tình", key="tab5_t_name")
+            t_dept = st.text_input("Tổ chuyên môn:", value="Tổ Tự Nhiên", key="tab5_t_dept")
+            t_school = st.text_input("Đơn vị trường:", value="TRƯỜNG TH & THCS ĐĂK TRÔI", key="tab5_t_school")
+        with col_c2:
+            st.markdown("##### ✍️ Khối Ký Phê Duyệt")
+            s_cm = st.text_input("Duyệt của Chuyên môn:", value="Lưu Văn Chí", key="tab5_s_cm")
+            s_to = st.text_input("Duyệt của tổ chuyên môn:", value="Hoàng Thị Kim Tuyết", key="tab5_s_to")
+            t_subj = st.selectbox("Môn học & Khối lớp:", ["Tin học 6", "Tin học 7", "Tin học 8", "Tin học 9"], index=0, key="tab5_subj")
+        with col_c3:
+            st.markdown("##### 📁 Nguồn Phân Phối Chương Trình")
+            ppct_default = "_Lop_6A.xlsx"
+            ppct_path = st.text_input("Đường dẫn file PPCT Excel:", value=ppct_default, key="tab5_ppct_path")
+            uploaded_file = st.file_uploader("Hoặc tải file Excel PPCT mới (.xlsx):", type=["xlsx"], key="tab5_upload_ppct")
+
+    # Xác định đường dẫn file Excel thực tế
+    active_ppct_path = ppct_path
+    if uploaded_file is not None:
+        os.makedirs("output", exist_ok=True)
+        temp_excel = os.path.join("output", uploaded_file.name)
+        with open(temp_excel, "wb") as f:
+            f.write(uploaded_file.getbuffer())
+        active_ppct_path = temp_excel
+
+    # Tải danh sách bài dạy
+    ai_gen = KHBDAIGenerator()
+    try:
+        lessons = ai_gen.load_ppct_excel(active_ppct_path)
+    except Exception as e:
+        st.error(f"❌ Không thể đọc file Phân phối chương trình tại '{active_ppct_path}': {e}")
+        return
+
+    # Thống kê nhanh PPCT
+    k1, k2, k3, k4 = st.columns(4)
+    k1.metric("📖 Tổng Tiết PPCT", len(lessons))
+    k2.metric("📅 Khối Lớp", t_subj)
+    k3.metric("🤖 AI Engine", ai_gen.model.split("/")[-1])
+    k4.metric("📁 Thư mục xuất Word", "output/khbd_lop_6a/")
+
+    subtab1, subtab2, subtab3 = st.tabs([
+        "🎯 1. Soạn 1 Tiết Cụ Thể (Xem Trước & Tải Về)",
+        "⚡ 2. Sinh Hàng Loạt Theo Tuần / Học Kỳ (Batch Generation)",
+        "📂 3. Kho Giáo Án Đã Xuất (.docx)"
+    ])
+
+    # ----------------- SUBTAB 1: SOẠN 1 TIẾT CỤ THỂ -----------------
+    with subtab1:
+        st.markdown("#### 🎯 Soạn Thảo Chi Tiết Từng Tiết Học")
+        lesson_options = [
+            f"Tuần {l['week']} • Tiết {l['period']}: {l['lesson_title']} ({l['date_range']})"
+            for l in lessons
+        ]
+        sel_idx = st.selectbox("Chọn tiết học cần soạn:", range(len(lesson_options)), format_func=lambda i: lesson_options[i])
+        cur_lesson = lessons[sel_idx]
+
+        col_b1, col_b2 = st.columns([1.5, 3])
+        with col_b1:
+            btn_gen_single = st.button("🚀 Soạn Kế Hoạch Bài Dạy Bằng Beekone AI", type="primary", use_container_width=True)
+
+        if btn_gen_single:
+            with st.spinner(f"Đang biên soạn bài '{cur_lesson['lesson_title']}' (Tuần {cur_lesson['week']} - Tiết {cur_lesson['period']})..."):
+                try:
+                    data = ai_gen.generate_khbd_json(
+                        lesson_info=cur_lesson,
+                        teacher_name=t_name,
+                        department=t_dept,
+                        signer_cm=s_cm,
+                        signer_to=s_to,
+                        subject="Tin học",
+                        grade="6",
+                        school_name=t_school
+                    )
+                    out_dir = "output/khbd_lop_6a"
+                    os.makedirs(out_dir, exist_ok=True)
+                    out_docx = os.path.join(out_dir, cur_lesson["output_filename"])
+                    KHBDDocxExporter.export_khbd_to_docx(data, out_docx)
+                    st.session_state["last_khbd_data"] = data
+                    st.session_state["last_khbd_docx"] = out_docx
+                    st.success(f"✅ Đã soạn và xuất file Word thành công: **{cur_lesson['output_filename']}**!")
+                except Exception as e:
+                    st.error(f"Lỗi khi soạn bài: {e}")
+
+        # Xem trước nội dung bài vừa sinh
+        if "last_khbd_data" in st.session_state and os.path.exists(st.session_state.get("last_khbd_docx", "")):
+            data = st.session_state["last_khbd_data"]
+            docx_path = st.session_state["last_khbd_docx"]
+
+            st.markdown("---")
+            c_d1, c_d2 = st.columns([2, 1])
+            with c_d1:
+                st.subheader(f"📄 {data.get('title', 'KẾ HOẠCH BÀI DẠY')}")
+                st.caption(data.get("sub_title", ""))
+            with c_d2:
+                with open(docx_path, "rb") as f:
+                    st.download_button(
+                        label=f"⬇️ Tải File Word ({os.path.basename(docx_path)})",
+                        data=f,
+                        file_name=os.path.basename(docx_path),
+                        mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        type="primary",
+                        use_container_width=True
+                    )
+
+            # Preview cấu trúc 5 phần
+            with st.expander("👁️ Xem chi tiết Mục tiêu & Năng lực số (NLS)", expanded=True):
+                obj = data.get("objectives", {})
+                st.markdown("**1. Về kiến thức:**")
+                for k in obj.get("knowledge", []):
+                    st.markdown(f"- {k}")
+
+                st.markdown("**2. Về năng lực:**")
+                comp = obj.get("competencies", {})
+                for g in comp.get("general", []):
+                    st.markdown(f"- *Năng lực chung:* {g}")
+                for s in comp.get("specific", []):
+                    st.markdown(f"- *Năng lực đặc thù:* {s}")
+
+                st.markdown("<p style='color: #dc2626; font-weight: bold; margin-bottom: 4px;'>2.3. Năng lực số (NLS) tích hợp theo Thông tư 02/2025/TT-BGDĐT:</p>", unsafe_allow_html=True)
+                for d in comp.get("digital", []):
+                    code = d.get("code", "") if isinstance(d, dict) else ""
+                    desc = d.get("desc", str(d)) if isinstance(d, dict) else str(d)
+                    st.markdown(f"<p style='color: #dc2626; margin: 2px 0 2px 20px;'>• <b>[{code}]:</b> {desc}</p>", unsafe_allow_html=True)
+
+            with st.expander("👁️ Xem chi tiết 4 Hoạt động Dạy học (Tiến trình 5512)", expanded=False):
+                for act in data.get("activities", []):
+                    st.markdown(f"##### 📌 {act.get('name')} ({act.get('time', '')})")
+                    st.markdown(f"- **Mục tiêu:** {act.get('goal', '')}")
+                    st.markdown(f"- **Nội dung:** {act.get('content', '')}")
+                    st.markdown(f"- **Sản phẩm:** {act.get('product', '')}")
+                    step_data = []
+                    for stp in act.get("steps", []):
+                        step_data.append({
+                            "Các bước": stp.get("step_name", ""),
+                            "Hoạt động của GV": stp.get("teacher_action", ""),
+                            "Hoạt động của HS": stp.get("student_action", "")
+                        })
+                    st.table(pd.DataFrame(step_data))
+
+            with st.expander("👁️ Bảng tổng hợp Năng lực số (NLS) tích hợp", expanded=True):
+                nls_t = data.get("nls_summary_table", [])
+                st.table(pd.DataFrame([
+                    {"TT": item.get("stt"), "Nội dung hoạt động số của học sinh": item.get("activity"), "Mã NLS đạt được": item.get("code")}
+                    for item in nls_t
+                ]))
+
+    # ----------------- SUBTAB 2: SINH HÀNG LOẠT (BATCH) -----------------
+    with subtab2:
+        st.markdown("#### ⚡ Sinh Hàng Loạt Kế Hoạch Bài Dạy (Batch Generation)")
+        st.info("💡 **Tiết kiệm thời gian tối đa:** Tự động tạo giáo án cho nhiều tuần liên tiếp chỉ với 1 cú nhấp chuột. AI Beekone xử lý siêu tốc ~7-9 giây mỗi bài.")
+
+        col_b_cfg1, col_b_cfg2 = st.columns([1.5, 2])
+        with col_b_cfg1:
+            range_mode = st.radio("Chọn phạm vi sinh:", [
+                "Tuỳ chọn khoảng tuần",
+                "Học kỳ 1 (Tuần 1 đến 18)",
+                "Học kỳ 2 (Tuần 19 đến 35)",
+                "Toàn bộ năm học (Tuần 1 đến 35)"
+            ])
+
+            if range_mode == "Tuỳ chọn khoảng tuần":
+                c_w1, c_w2 = st.columns(2)
+                f_w = c_w1.number_input("Từ tuần:", min_value=1, max_value=35, value=1, step=1)
+                t_w = c_w2.number_input("Đến tuần:", min_value=1, max_value=35, value=5, step=1)
+            elif range_mode == "Học kỳ 1 (Tuần 1 đến 18)":
+                f_w, t_w = 1, 18
+            elif range_mode == "Học kỳ 2 (Tuần 19 đến 35)":
+                f_w, t_w = 19, 35
+            else:
+                f_w, t_w = 1, 35
+
+        # Lọc danh sách bài học cần sinh
+        batch_lessons = []
+        for l in lessons:
+            try:
+                w_num = int(l["week"])
+                if f_w <= w_num <= t_w:
+                    batch_lessons.append(l)
+            except ValueError:
+                pass
+
+        with col_b_cfg2:
+            st.markdown(f"**Danh sách tiết sẽ biên soạn ({len(batch_lessons)} tiết):**")
+            df_preview = pd.DataFrame([{
+                "Tuần": l["week"],
+                "Tiết": l["period"],
+                "Tên bài học": l["lesson_title"],
+                "Ngày dạy": l["date_range"]
+            } for l in batch_lessons])
+            st.dataframe(df_preview, use_container_width=True, height=180, hide_index=True)
+
+        btn_start_batch = st.button("🚀 BẮT ĐẦU SINH HÀNG LOẠT VỚI BEEKONE AI", type="primary", use_container_width=True)
+
+        if btn_start_batch:
+            if not batch_lessons:
+                st.warning("Không có bài học nào nằm trong khoảng tuần đã chọn.")
+            else:
+                prog_bar = st.progress(0)
+                status_txt = st.empty()
+                out_dir = "output/khbd_lop_6a"
+                os.makedirs(out_dir, exist_ok=True)
+                generated_batch_files = []
+
+                for b_i, b_l in enumerate(batch_lessons):
+                    status_txt.markdown(f"⏳ **[{b_i+1}/{len(batch_lessons)}] Đang biên soạn bài:** Tuần {b_l['week']} - Tiết {b_l['period']}: *{b_l['lesson_title']}*...")
+                    try:
+                        b_data = ai_gen.generate_khbd_json(
+                            lesson_info=b_l,
+                            teacher_name=t_name,
+                            department=t_dept,
+                            signer_cm=s_cm,
+                            signer_to=s_to,
+                            subject="Tin học",
+                            grade="6",
+                            school_name=t_school
+                        )
+                        b_out_docx = os.path.join(out_dir, b_l["output_filename"])
+                        KHBDDocxExporter.export_khbd_to_docx(b_data, b_out_docx)
+                        generated_batch_files.append(b_out_docx)
+                    except Exception as err:
+                        st.error(f"Lỗi tại bài '{b_l['lesson_title']}': {err}")
+
+                    prog_bar.progress((b_i + 1) / len(batch_lessons))
+
+                status_txt.success(f"🎉 **ĐÃ HOÀN TẤT SINH {len(generated_batch_files)}/{len(batch_lessons)} GIÁO ÁN THÀNH CÔNG!**")
+
+                # Đóng gói ZIP
+                zip_filename = f"KHBD_Lop_6A_Tuan_{f_w:02d}_den_{t_w:02d}.zip"
+                zip_filepath = os.path.join("output", zip_filename)
+                with zipfile.ZipFile(zip_filepath, "w", zipfile.ZIP_DEFLATED) as zf:
+                    for f_p in generated_batch_files:
+                        zf.write(f_p, os.path.basename(f_p))
+
+                st.session_state["latest_batch_zip"] = zip_filepath
+
+        if "latest_batch_zip" in st.session_state and os.path.exists(st.session_state["latest_batch_zip"]):
+            zip_p = st.session_state["latest_batch_zip"]
+            with open(zip_p, "rb") as zf:
+                st.download_button(
+                    label=f"📦 TẢI TRỌN BỘ FILE NÉN ZIP ({os.path.basename(zip_p)} - {os.path.getsize(zip_p)/1024:.1f} KB)",
+                    data=zf,
+                    file_name=os.path.basename(zip_p),
+                    mime="application/zip",
+                    type="primary",
+                    use_container_width=True
+                )
+
+    # ----------------- SUBTAB 3: KHO GIÁO ÁN ĐÃ XUẤT -----------------
+    with subtab3:
+        st.markdown("#### 📂 Danh Mục Giáo Án Word Đã Xuất Trong Thư Mục `output/khbd_lop_6a/`")
+        out_dir = "output/khbd_lop_6a"
+        if os.path.exists(out_dir):
+            all_files = [f for f in os.listdir(out_dir) if f.endswith(".docx")]
+            all_files.sort()
+            if all_files:
+                st.success(f"Hiện có **{len(all_files)} file giáo án Word (.docx)** sẵn sàng sử dụng:")
+                col_f1, col_f2 = st.columns([3, 1])
+                for idx_f, f_name in enumerate(all_files, start=1):
+                    full_p = os.path.join(out_dir, f_name)
+                    sz_kb = os.path.getsize(full_p) / 1024
+                    c_a, c_b = st.columns([3, 1])
+                    c_a.markdown(f"**{idx_f}.** 📄 `{f_name}` *({sz_kb:.1f} KB)*")
+                    with open(full_p, "rb") as f_down:
+                        c_b.download_button(
+                            label="⬇️ Tải",
+                            data=f_down,
+                            file_name=f_name,
+                            mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            key=f"down_btn_{idx_f}"
+                        )
+            else:
+                st.info("Chưa có file giáo án nào trong thư mục. Hãy chọn tab 1 hoặc tab 2 để bắt đầu sinh.")
+        else:
+            st.info("Thư mục `output/khbd_lop_6a/` chưa được tạo.")
+
+# GẮN HÀM TAB 5
+with tab5:
+    render_tab5_content()
