@@ -126,6 +126,49 @@ class KHBDAIGenerator:
 
         return lessons
 
+    @staticmethod
+    def get_sgk_knowledge(lesson_title: str, grade: str = "6") -> Optional[Dict[str, Any]]:
+        """
+        Truy vấn dữ liệu tri thức Sách giáo khoa (Kết nối tri thức)
+        từ kho dữ liệu số hóa của dự án (Excel/CSV/Neo4j).
+        """
+        import pandas as pd
+        xlsx_file = f"output/sgk_tinhoc_lớp_{grade}.xlsx"
+        if not os.path.exists(xlsx_file):
+            xlsx_file = "output/sgk_tinhoc_tong_hop_master.xlsx"
+        if not os.path.exists(xlsx_file):
+            return None
+
+        try:
+            df = pd.read_excel(xlsx_file, sheet_name="DuLieu_TongHop")
+            # Tách từ khóa tên bài (bỏ 'Bài X:', '(tt)', ...)
+            clean_kw = lesson_title.split(":")[-1].split("(")[0].strip()
+            match = df[df["lesson_title"].str.contains(clean_kw, case=False, na=False)]
+            if match.empty:
+                tokens = [t for t in clean_kw.split() if len(t) > 2]
+                for t in tokens:
+                    m = df[df["lesson_title"].str.contains(t, case=False, na=False)]
+                    if not m.empty:
+                        match = m
+                        break
+            if match.empty:
+                return None
+
+            yccd = match["requirement_content"].dropna().unique().tolist()
+            kn = match["knowledge_name"].dropna().unique().tolist()
+            skills = match["skill_name"].dropna().unique().tolist() if "skill_name" in match.columns else []
+
+            return {
+                "lesson_name": match["lesson_title"].iloc[0],
+                "chapter_title": match["chapter_title"].iloc[0] if "chapter_title" in match.columns else "",
+                "requirements": yccd,
+                "knowledges": kn,
+                "skills": skills
+            }
+        except Exception as e:
+            logger.warning(f"Lỗi khi đọc tri thức SGK: {e}")
+            return None
+
     def generate_khbd_json(
         self,
         lesson_info: Dict[str, Any],
@@ -139,11 +182,28 @@ class KHBDAIGenerator:
     ) -> Dict[str, Any]:
         """
         Gọi API Beekone AI để sinh nội dung Kế hoạch bài dạy chuẩn 5512 tích hợp NLS.
+        Tự động nạp dữ liệu tri thức SGK từ kho dữ liệu số hóa của đồ án.
         """
         week_str = str(lesson_info.get("week", "1"))
         period_str = str(lesson_info.get("period", "1"))
         date_str = str(lesson_info.get("date_range", "07/09/2026 - 11/09/2026"))
         lesson_title = str(lesson_info.get("lesson_title", "Bài học"))
+
+        # Truy vấn trực tiếp tri thức Sách giáo khoa
+        sgk_info = self.get_sgk_knowledge(lesson_title, grade=grade)
+        sgk_text_block = ""
+        if sgk_info:
+            req_lines = "\n".join([f"  * {r}" for r in sgk_info.get("requirements", [])])
+            kn_lines = "\n".join([f"  * {k}" for k in sgk_info.get("knowledges", [])])
+            sk_lines = "\n".join([f"  * {s}" for s in sgk_info.get("skills", [])])
+            sgk_text_block = (
+                f"\n[DỮ LIỆU TRI THỨC TRÍCH XUẤT TỪ SÁCH GIÁO KHOA KẾT NỐI TRI THỨC]\n"
+                f"- Chủ đề SGK: {sgk_info.get('chapter_title', '')}\n"
+                f"- Yêu cầu cần đạt chuẩn SGK GDPT 2018:\n{req_lines}\n"
+                f"- Khái niệm kiến thức cốt lõi SGK:\n{kn_lines}\n"
+                f"- Kỹ năng thực hành SGK:\n{sk_lines}\n"
+                f"* LƯU Ý QUAN TRỌNG: Hãy sử dụng CHÍNH XÁC các chuẩn Yêu cầu cần đạt và Kiến thức cốt lõi SGK này để đưa vào phần I. Mục tiêu và phần III. Tiến trình dạy học.\n"
+            )
 
         system_prompt = (
             "Bạn là Chuyên gia Phương pháp Giảng dạy môn Tin học và Soạn Kế hoạch bài dạy (KHBD) "
@@ -183,7 +243,7 @@ class KHBDAIGenerator:
 - Tổ chuyên môn: {department}
 - Duyệt chuyên môn: {signer_cm}
 - Duyệt tổ chuyên môn: {signer_to}
-
+{sgk_text_block}
 CẤU TRÚC JSON MẪU BẮT BUỘC TUÂN THỦ:
 {{
   "header": {{
@@ -451,6 +511,16 @@ CẤU TRÚC JSON MẪU BẮT BUỘC TUÂN THỦ:
         date_str = str(lesson_info.get("date_range", "07/09/2026 - 11/09/2026"))
         lesson_title = str(lesson_info.get("lesson_title", "Bài học"))
 
+        sgk_info = self.get_sgk_knowledge(lesson_title, grade=grade)
+        knowledge_list = (
+            sgk_info.get("requirements", [])
+            if sgk_info and sgk_info.get("requirements")
+            else [
+                f"Nêu và giải thích được các khái niệm cốt lõi theo chuẩn kiến thức bài {lesson_title}.",
+                "Vận dụng kiến thức bài học để giải quyết các bài tập và tình huống thực tế."
+            ]
+        )
+
         return {
             "header": {
                 "week": week_str,
@@ -463,10 +533,7 @@ CẤU TRÚC JSON MẪU BẮT BUỘC TUÂN THỦ:
             "title": lesson_title.upper(),
             "sub_title": f"Môn học: {subject}; Lớp: {grade} | Thời gian thực hiện: 1 tiết (45 phút)",
             "objectives": {
-                "knowledge": [
-                    f"Nêu và giải thích được các khái niệm cốt lõi theo chuẩn kiến thức bài {lesson_title}.",
-                    "Vận dụng kiến thức bài học để giải quyết các bài tập và tình huống thực tế."
-                ],
+                "knowledge": knowledge_list,
                 "competencies": {
                     "general": [
                         "Năng lực tự chủ và tự học: Chủ động nghiên cứu nội dung sách giáo khoa, hoàn thành các nhiệm vụ được giao.",
