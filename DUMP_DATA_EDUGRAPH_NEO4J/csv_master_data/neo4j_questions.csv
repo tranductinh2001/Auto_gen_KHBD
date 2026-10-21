@@ -1,0 +1,434 @@
+﻿grade_level,lesson_id,question_id,question_content,difficulty
+Lớp 6,Bài 1,CH01,Em hãy thảo luận với bạn về lợi ích của mạng máy tính.,Thông hiểu
+Lớp 6,Bài 1,CH02,"Mỗi dòng sau đây là thông tin hay dữ liệu? '16:00', '0123456789', 'Hãy gọi cho tôi lúc 16 giờ theo số điện thoại 0123456789.'",Thông hiểu
+Lớp 6,Bài 1,LT1,"Em hãy xem Bảng 1.1 và trả lời các câu hỏi sau:
+a) Các con số trong cột tháng 9 là thông tin hay dữ liệu?
+b) Phát biểu “Tháng 6, Đà Nẵng ít mưa nhất so với các thành phố khác” là thông tin hay dữ liệu?
+c) Trả lời câu hỏi: “Huế ít mưa nhất vào tháng nào trong năm?”. Câu trả lời là thông tin hay dữ liệu?
+d) Câu trả lời cho câu c) có ảnh hưởng đến việc lựa chọn thời gian và địa điểm du lịch không?",Thông hiểu
+Lớp 6,Bài 1,VD1,"Em hãy lấy ví dụ cho thấy thông tin giúp em:
+a) Có những lựa chọn trang phục tốt hơn.
+b) Đảm bảo an toàn khi tham gia giao thông.",Vận dụng
+Lớp 6,Bài 1,VD2,Em hãy nêu ví dụ về vật mang tin giúp ích cho việc học tập của em.,Vận dụng
+Lớp 6,Bài 1,VD3,Em hãy lấy một ví dụ về dữ liệu trong cuộc sống. Bổ sung tình huống cho dữ liệu đó để nó trở thành thông tin.,Vận dụng
+Lớp 6,Bài 2,HD1,Em hãy xem xét tình huống cầu thủ ghi bàn và trả lời các câu hỏi sau: 1. Bộ não của cầu thủ nhận được thông tin từ những giác quan nào? 2. Thông tin nào được bộ não cầu thủ ghi nhớ và sử dụng khi đá phạt? 3. Bộ não biến đổi thông tin nhận được thành thông tin nào? 4. Bộ não chuyển thông tin điều khiển thành thao tác nào của cầu thủ? 5. Quá trình xử lí thông tin của bộ não gồm những bước nào?,Thông hiểu
+Lớp 6,Bài 2,CH01,Em hãy chọn các phương án đúng: 1. Sơ đồ tư duy giúp chúng ta:,Thông hiểu
+Lớp 6,Bài 2,CH02,Em hãy chọn các phương án đúng: 2. Sơ đồ tư duy là:,Thông hiểu
+Lớp 6,Bài,CH01,Thuật toán là gì?,Nhận biết
+Lớp 6,Bài,CH02,Em hãy chọn các câu đúng.,Thông hiểu
+Lớp 6,Bài,HD02,Em hãy nêu một vài ví dụ về việc máy tính giúp con người trong các hoạt động sau: a) Thu nhận thông tin. b) Lưu trữ thông tin. c) Biến đổi thông tin. d) Truyền thông tin.,Vận dụng
+Lớp 6,Bài 3,CH01,Dãy bit là gì?,Nhận biết
+Lớp 6,Bài 3,CH02,Máy tính sử dụng dãy bit để làm gì?,Thông hiểu
+Lớp 6,Bài 4,CH01,"1. Em hãy quan sát Hình 2.1 và cho biết:
+a) Tên các thiết bị đầu cuối.
+b) Tên các thiết bị kết nối.
+2. Em hãy kể tên một số cách kết nối không dây mà em biết.
+3. Em hãy nêu ví dụ cho thấy kết nối không dây thuận tiện hơn kết nối có dây.",Thông hiểu
+Lớp 6,Bài 4,CH02,Em hãy quan sát Hình 1.8 và cho biết mỗi tệp có dung lượng là bao nhiêu.,Thông hiểu
+Lớp 6,Bài 4,LT1,Một GB tương đương với khoảng bao nhiêu byte?,Nhận biết
+Lớp 6,Bài 4,LT2,Giả sử một bức ảnh được chụp bằng một máy ảnh chuyên nghiệp có dung lượng khoảng 12 MB. Vậy một thẻ nhớ 16 GB có thể chứa bao nhiêu bức ảnh như vậy?,Vận dụng
+Lớp 6,Bài 4,LT3,"Giả sử mỗi phút âm thanh chiếm 1 MB, mỗi bài hát trung bình có độ dài 6 phút. Một chiếc điện thoại thông minh còn trống 8 GB sẽ chứa được bao nhiêu bài hát như vậy?",Vận dụng
+Lớp 6,Bài 4,LT4,"Giả sử mỗi giờ phim chiếm khoảng 4 GB, mỗi bộ phim có thời gian trung bình khoảng 1,5 giờ. Vậy một đĩa cứng 2 TB chứa được bao nhiêu bộ phim?",Vận dụng
+Lớp 6,Bài 4,VD1,Em hãy kiểm tra dung lượng các ổ đĩa của máy tính mà em đang sử dụng.,Vận dụng
+Lớp 6,Bài 4,VD2,Thực hiện tương tự như Hoạt động 1 với dãy các số từ 0 đến 15 để tìm mã hoá của các số từ 8 đến 15 và đưa ra nhận xét.,Vận dụng
+Lớp 6,Bài 4,LT01,"1. Em hãy chọn các phương án đúng.
+Máy tính kết nối với nhau để:
+A. Chia sẻ các thiết bị.
+B. Tiết kiệm điện.
+C. Trao đổi dữ liệu.
+D. Thuận lợi cho việc sửa chữa.",Nhận biết
+Lớp 6,Bài 4,LT02,"2. Em hãy chọn các phương án đúng.
+Thiết bị có kết nối không dây ở Hình 2.2 là:
+A. Máy tính để bàn.
+B. Máy tính xách tay.
+C. Điện thoại di động.
+D. Bộ định tuyến.",Thông hiểu
+Lớp 6,Bài 4,VD01,"1. Phòng thư viện của trường có 5 máy tính cần kết nối thành một mạng. Có thể có nhiều cách kết nối, ví dụ như Hình 2.3. Em hãy vẽ hai cách khác để kết nối chúng thành một mạng. So sánh cách của em với các bạn khác.",Vận dụng
+Lớp 6,Bài 4,VD02,"2. Nhà bạn An có điện thoại di động của bố, của mẹ và một máy tính xách tay đang cùng truy cập mạng Internet. Theo em, các thiết bị đó có đang được kết nối thành một mạng máy tính không? Nếu có, hãy chỉ ra các thiết bị đầu cuối và thiết bị kết nối.",Vận dụng
+Lớp 6,Bài 10,CH01,Em hãy kể hai công việc trong cuộc sống mà việc thực hiện gồm các bước được lặp lại nhiều lần.,Thông hiểu
+Lớp 6,Bài 10,LT01,"Em hãy chọn phương án đúng. Internet là mạng:
+A. Kết nối hai máy tính với nhau.
+B. Kết nối các máy tính trong một nước.
+C. Kết nối nhiều máy tính trên phạm vi toàn cầu.
+D. Kết nối các máy tính trong một thành phố.",Nhận biết
+Lớp 6,Bài 10,LT02,Để máy tính kết nối được Internet ta cần làm gì?,Thông hiểu
+Lớp 6,Bài 10,VD01,Em hãy lấy ví dụ cho thấy Internet mang lại lợi ích cho việc học tập và giải trí.,Vận dụng
+Lớp 6,Bài 10,VD02,Em hãy giải thích tại sao Internet lại được sử dụng rộng rãi và ngày càng phát triển.,Vận dụng
+Lớp 6,Bài 8,CH01,Em hãy kể tên một số trình duyệt mà em biết.,Nhận biết
+Lớp 6,Bài 8,CH02,Để truy cập một trang web ta cần làm thế nào?,Thông hiểu
+Lớp 6,Bài (tiếp theo),LT01,Thông tin trên Internet được tổ chức như thế nào?,Nhận biết
+Lớp 6,Bài (tiếp theo),LT02,"Em hãy ghép mỗi nội dung ở cột A với một nội dung phù hợp ở cột B: 1) Website là tập hợp; 2) Khi duyệt web, muốn chuyển đến một nội dung hoặc một trang web khác thì ta nháy chuột vào; 3) Để truy cập các trang web ta cần; 4) WWW là hệ thống các.",Thông hiểu
+Lớp 6,Bài (tiếp theo),VD01,Có điểm gì khác nhau giữa cách tổ chức thông tin trong cuốn sách với cách tổ chức thông tin trên Internet?,Vận dụng
+Lớp 6,Bài (tiếp theo),VD02,"Em hãy sử dụng trình duyệt web để truy cập vào trang web có địa chỉ: http://hoahoctro.tienphong.vn và http://vtv7.vtv.vn để xem thông tin có trên trang web (tên, biểu tượng, các mục chính,...) và theo các liên kết trỏ đến các trang web khác. Lưu địa chỉ các trang web em thích vào thanh Bookmark.",Vận dụng
+Lớp 6,Bài học,TH01,"Để tìm kiếm thông tin về 'vai trò của tầng ozon' bằng máy tìm kiếm Google, em thực hiện các bước nào sau đây?",Vận dụng
+Lớp 6,Bài học,LT01,Thư điện tử có hạn chế nào dưới đây so với các hình thức gửi thư khác?,Thông hiểu
+Lớp 6,Bài học,LT02,Một người có thể mở được nhiều tài khoản thư điện tử không?,Nhận biết
+Lớp 6,Bài học,LT03,Khi tạo tài khoản thư điện tử em không cần khai báo gì?,Nhận biết
+Lớp 6,Bài học,VD01,"Em hãy xác định xem thư nào có thể là thư rác trong các thư điện tử với tiêu đề sau: A. Cơ hội đầu tư kiếm được nhiều tiền hơn. B. Danh sách học sinh tham gia thi học sinh giỏi môn Tin học. C. Quà tặng miễn phí, hãy nháy chuột nhanh. D. Bạn đã trúng một chuyến đi miễn phí đến Mĩ. E. Ảnh tập thể lớp 6A ngày khai trường. F. Khuyến mãi, ưu đãi giá rẻ cho bạn.",Vận dụng
+Lớp 6,Bài học,VD02,"Em hãy soạn một thư điện tử có gửi kèm ảnh (hoặc tệp văn bản, thiệp chúc mừng,...) cho bạn hoặc người thân của em.",Vận dụng
+Lớp 6,Bài học,CH01,Ưu điểm của việc tạo sơ đồ tư duy thủ công trên giấy là gì?,Thông hiểu
+Lớp 6,Bài học,CH02,Việc làm nào được khuyến khích khi sử dụng các dịch vụ trên Internet?,Thông hiểu
+Lớp 6,Bài học (Tiếp theo),HD04,"1. Một bạn quen trên mạng xin số điện thoại và địa chỉ của em để gặp nhau nói chuyện. Em có nên cho không?
+2. Em được một bạn gửi qua mạng cho một số thông tin không tốt về một bạn khác cùng lớp. Em có nên đăng lên mạng để mọi người cùng biết không?",Vận dụng
+Lớp 6,Bài học,LT1,"1. Tìm câu sai.
+a) Chương trình máy tính là một dãy các lệnh mà máy tính có thể hiểu và thực hiện được.
+b) Chương trình máy tính được viết bằng ngôn ngữ lập trình.
+c) Máy tính có thể thực hiện các lệnh trong chương trình theo trình tự tuỳ ý.",Nhận biết
+Lớp 6,Bài học,LT2,"2. Cho chương trình Scratch như ở Hình 6.15. Em hãy trả lời các câu hỏi sau:
+a) Chương trình đó thực hiện thuật toán nào?
+b) Xác định đầu vào, đầu ra của thuật toán đó.
+c) Hãy cho ví dụ cụ thể giá trị dữ liệu đầu vào và cho biết kết quả đầu ra tương ứng.
+d) Hãy trình bày thuật toán bằng sơ đồ khối.",Thông hiểu
+Lớp 6,Bài học,VD1,"1. Em hãy vẽ sơ đồ khối mô tả thuật toán tìm số lớn hơn trong hai số a và b. Từ sơ đồ khối, hãy viết chương trình Scratch thực hiện thuật toán.",Vận dụng
+Lớp 6,Bài học,VD2,2. Em hãy viết chương trình Scratch thực hiện thuật toán tính trung bình cộng của ba số.,Vận dụng
+Lớp 6,Bài học,VD3,Em nên làm gì để bảo vệ thông tin và tài khoản cá nhân.,Vận dụng
+Lớp 6,Bài 9,LT1,Em hãy bổ sung các nhánh nội dung còn thiếu cho sơ đồ tư duy ghi lại nội dung cuốn sổ lưu niệm của lớp em.,Vận dụng
+Lớp 6,Bài 9,VD1,Em hãy dùng sơ đồ tư duy (vẽ trên giấy hoặc tạo bằng phần mềm) trình bày tóm tắt nội dung Bài 9. An toàn thông tin trên Internet.,Vận dụng
+Lớp 6,Bài 13,CH01,"Để mở cửa sổ in văn bản (Print) trong phần mềm soạn thảo văn bản Microsoft Word, em chọn thẻ nào?",Nhận biết
+Lớp 6,Bài 13,CH02,"Trong cửa sổ Print, để in tất cả các trang của tài liệu, em thường chọn mục nào trong phần Settings?",Thông hiểu
+Lớp 6,Bài 14,LT1,"Em hãy chọn hướng trang phù hợp cho các văn bản sau:
+a) Đơn xin nghỉ học.
+b) Báo cáo tổng kết năm học của lớp.
+c) Sổ lưu niệm của lớp.
+d) Sách ảnh chứa ảnh phong cảnh.",Thông hiểu
+Lớp 6,Bài 14,LT2,Em chọn loại căn lề nào khi trình bày nội dung bài thơ lục bát trên phần mềm soạn thảo văn bản? Tại sao?,Thông hiểu
+Lớp 6,Bài 14,LT3,Em hãy soạn thảo Đơn xin nghỉ học và thực hiện các thao tác định dạng hợp lí.,Vận dụng
+Lớp 6,Bài 14,VD1,"Trong bài học trước, em đã cùng các bạn sử dụng sơ đồ tư duy để trình bày kết quả thảo luận về nội dung cuốn sổ lưu niệm của lớp. Em hãy thực hiện các công việc sau:
+a) Soạn thảo thêm nội dung cho cuốn sổ lưu niệm (bài viết cảm nghĩ, bài viết giới thiệu hoạt động, sự kiện,...).
+b) Chèn thêm hình ảnh minh họa.
+c) Căn lề và định dạng trang để có được bố cục hợp lí và đẹp.
+d) Lưu lại tệp để dùng cho việc tạo cuốn sổ lưu niệm của lớp.",Vận dụng
+Lớp 6,Bài 12,HD1,"Hình 5.11 cho thấy hai cách trình bày danh sách học sinh trong cuốn sổ lưu niệm. Trang bên trái sử dụng bảng, trang bên phải liệt kê lần lượt danh sách các thành viên. Em hãy nhận xét về hai cách trình bày.",Thông hiểu
+Lớp 6,Bài 12,HD2,Em sẽ lựa chọn cách nào để trình bày danh sách học sinh trong cuốn sổ lưu niệm của lớp em? Tại sao?,Vận dụng
+Lớp 6,Bài 15,CH01,"Trong phần mềm soạn thảo văn bản, để chèn bảng (Table), ta chọn thẻ nào trên thanh bảng chọn?",Nhận biết
+Lớp 6,Bài 15,CH02,Việc trình bày thông tin dưới dạng bảng đem lại lợi ích gì so với văn bản dạng liệt kê thông thường?,Thông hiểu
+Lớp 6,Bài 15,CH03,Đâu là thao tác đúng để chọn số cột và số hàng khi tạo bảng bằng lệnh Table trong thẻ Insert?,Thông hiểu
+Lớp 6,Bài,LT1,"Tệp văn bản chứa các bài viết cảm nghĩ của An về trường, lớp, thầy cô và các bạn gồm nhiều trang. An muốn xem lại nội dung bài viết về nhóm bạn thân lớp 6A, nhưng không nhớ rõ ở trang nào. Vì vậy, An thực hiện thao tác tìm kiếm cụm từ 'nhóm bạn thân' trong tệp văn bản. An phải thực hiện thao tác gì để xem lần lượt các kết quả tìm thấy?",Vận dụng
+Lớp 6,Bài,LT2,"Em hãy sắp xếp lại các bước sau đây theo thứ tự đúng để thực hiện thao tác thay thế một từ hoặc cụm từ trong phần mềm soạn thảo văn bản.
+a) Gõ từ, cụm từ cần thay thế.
+b) Nháy chuột vào thẻ Home.
+c) Trong nhóm lệnh Editing, chọn Replace.
+d) Gõ từ, cụm từ cần tìm.
+e) Nháy chuột vào nút Replace để thay thế lần lượt từng từ hoặc cụm từ.",Thông hiểu
+Lớp 6,Bài,VD1,"Trong các bài học trước, em đã tạo ra một số tệp văn bản cho cuốn sổ lưu niệm. Em hãy xem lại các tệp văn bản này để rà soát lỗi chính tả. Em có thể sử dụng chức năng Tìm kiếm và Thay thế để chỉnh sửa các lỗi chính tả, thay thế các từ viết tắt,... để tệp văn bản hoàn chỉnh hơn.",Vận dụng
+Lớp 6,Bài 10,CH02,"Bạn Khoa đang lập trình bằng Scratch, Khoa muốn các chú cá di chuyển 10 bước một liên tục cho đến khi chạm biên thì dừng lại. a) Điều kiện để chú cá dừng lại là gì? b) Hình 6.10 là sơ đồ khối mô tả thuật toán thực hiện yêu cầu của bạn Khoa. Em hãy vẽ sơ đồ khối đó vào vở và điền các bước để hoàn thành sơ đồ khối.",Vận dụng
+Lớp 6,Bài 6,LT1,"Em hãy trình bày các câu sau đây dưới dạng sơ đồ khối cấu trúc rẽ nhánh:
+a) Nếu có kẻ trên mạng đe doạ thì em cần nói cho cha mẹ biết.
+b) Nếu nhận được thư điện tử có đính kèm tệp từ địa chỉ không quen biết thì em không nên mở tệp đính kèm.
+c) Nếu có tin nhắn từ người không quen biết yêu cầu gửi thông tin cá nhân thì em không nên gửi.",Vận dụng
+Lớp 6,Bài 6,LT2,"Trong các câu sau đây, câu nào có thể biểu diễn bằng sơ đồ khối có cấu trúc lặp? Hãy mô tả câu đó bằng sơ đồ khối:
+a) Nếu sáng mai trời mưa, em sẽ mang theo áo mưa.
+b) Nếu vẫn chưa làm hết bài tập, em phải làm bài tập đến khi nào hết.
+c) Nếu được nghỉ ba ngày vào dịp Tết Dương lịch thì gia đình em sẽ đi du lịch, còn không sẽ có kế hoạch khác.",Thông hiểu
+Lớp 6,Bài 6,LT3,"Em hãy quan sát hai sơ đồ khối trong Hình 6.11a, Hình 6.11b và cho biết mỗi sơ đồ khối mô tả cấu trúc nào?",Nhận biết
+Lớp 6,Bài 6,VD1,"Bạn An cho rằng: ""Sơ đồ khối ở Hình 6.12a thể hiện rằng nếu chưa hiểu bài thì việc đọc lại sách chỉ thực hiện một lần rồi làm bài tập. Còn sơ đồ khối ở Hình 6.12b thể hiện rằng nếu chưa hiểu bài thì việc đọc lại sách và làm bài tập sẽ thực hiện nhiều lần"". Em có đồng ý với ý kiến bạn An không? Nếu phải sửa nhận xét đó, em sẽ sửa như thế nào?",Vận dụng
+Lớp 6,Bài 6,VD2,"Trong trò chơi ở phần khởi động, việc tính điểm cho mỗi cặp chơi là một hoạt động lặp. Hãy chỉ rõ công việc được lặp lại và vẽ sơ đồ khối cấu trúc lặp của hoạt động này.",Vận dụng
+Lớp 6,Bài 6,VD3,"Cô giáo điểm danh bằng cách gọi tên từng bạn trong danh sách lớp. Nếu bạn nào trả lời có thì cô giáo gọi tên bạn tiếp theo, còn không thì cô giáo đánh dấu vắng mặt và gọi tên bạn tiếp theo. Việc điểm danh của cô giáo có thể mô tả bằng những cấu trúc nào? Em hãy vẽ sơ đồ khối mô tả các cấu trúc đó.",Vận dụng
+Lớp 6,Bài 6,CH01,"Dựa vào chương trình tính tổng hai số bằng ngôn ngữ tự nhiên và chương trình Scratch ở Hình 6.13, em hãy bổ sung nội dung vào các dấu hỏi chấm trong bảng: Công việc 'Nhập dữ liệu đầu vào', 'Xử lí', 'Thông báo đầu ra'.",Thông hiểu
+Lớp 6,Bài 6,CH02,"Câu ""Nếu trời mưa thì em không đi đá bóng"" có chứa cấu trúc nào? Em hãy mô tả câu này bằng sơ đồ khối.",Thông hiểu
+Lớp 6,Bài 6 - Thực hành,VD1,Em hãy mô tả thuật toán giải quyết yêu cầu trên bằng sơ đồ khối và chương trình Scratch cho bài toán tính số tiền lãi hoặc lỗ khi bán thiệp.,Vận dụng
+Lớp 6,Bài học,LT3,"3. Cho chương trình Scratch như ở Hình 6.16. Em hãy trả lời các câu hỏi sau:
+a) Chương trình đó thực hiện công việc gì?
+b) Các cấu trúc điều khiển tuần tự, rẽ nhánh và lặp có được sử dụng trong chương trình không? Hãy nêu các câu lệnh trong chương trình thể hiện cấu trúc đó.
+c) Hãy thực hành tạo chương trình bằng Scratch.",Thông hiểu
+Lớp 7,Bài 1,HD2,Mỗi thiết bị vào - ra trong Hình 1.2 làm việc với dạng thông tin nào? Thiết bị nào có cả hai chức năng vào và ra?,Thông hiểu
+Lớp 7,Bài 1,HD2.2,Máy chiếu là thiết bị vào hay thiết bị ra? Máy chiếu làm việc với dạng thông tin nào?,Nhận biết
+Lớp 7,Bài 1,HD2.3,Bộ điều khiển game (Hình 1.3a) là thiết bị vào hay thiết bị ra?,Nhận biết
+Lớp 7,Bài 1,HD2.4,"Màn hình cảm ứng (Hình 1.3b) là thiết bị vào, thiết bị ra hay có cả hai chức năng vào và ra?",Thông hiểu
+Lớp 7,Bài (tiếp theo),CH01,Em hãy lắp các thiết bị sau vào đúng cổng của nó bằng cách ghép mỗi chữ cái với số tương ứng trong Hình 1.5: a) Bàn phím; b) Dây mạng; c) Chuột; d) Dây màn hình; e) Tai nghe; f) Dây nguồn.,Thông hiểu
+Lớp 7,Bài (tiếp theo),CH02,Việc cấp nguồn điện cho máy tính cần được thực hiện trước hay sau các kết nối trên? Tại sao?,Thông hiểu
+Lớp 7,Bài 1,CH01,Thao tác nào sau đây tắt máy tính một cách an toàn?,Nhận biết
+Lớp 7,Bài 1,CH02,Tại sao không nên vừa ăn vừa sử dụng máy tính?,Thông hiểu
+Lớp 7,Bài 1,LT1,Một bộ tai nghe có gắn micro sử dụng cho máy tính là loại thiết bị gì?,Nhận biết
+Lớp 7,Bài 1,LT2,"Máy tính của em đang làm việc với một tệp trên thẻ nhớ. Em hãy sắp xếp lại thứ tự các thao tác sau để tắt máy tính an toàn, không làm mất dữ liệu: a) Chọn nút lệnh Shut down để tắt máy tính. b) Đóng tệp đang mở trên thẻ nhớ. c) Chọn ""Safe To Remove Hardware"" để ngắt kết nối với thẻ nhớ. d) Lưu lại nội dung của tệp.",Vận dụng
+Lớp 7,Bài 1,VD1,"Trên màn hình theo dõi, em thấy một người đứng trước camera an ninh. Người đó có biết em đang theo dõi không? Tại sao?",Vận dụng
+Lớp 7,Bài 1,VD2,Máy in của em in ra những kí hiệu không mong muốn và em biết lỗi này là do virus gây ra. Em cần phải diệt virus ở máy in hay máy tính? Tại sao?,Vận dụng
+Lớp 7,Bài 1,VD3,Em hãy đề xuất một số quy tắc để giúp các bạn sử dụng phòng máy tính an toàn.,Vận dụng
+Lớp 7,Bài học tiếp theo,CH01,Phần mềm nào sau đây không phải là một hệ điều hành?,Nhận biết
+Lớp 7,Bài học tiếp theo,CH02,Chức năng nào sau đây không phải của hệ điều hành?,Thông hiểu
+Lớp 7,Bài 3,CH01,Thiết bị lưu trữ nào sau đây có ưu điểm dung lượng lớn và tiện sử dụng nhưng có thể bị hỏng nếu bị rơi?,Nhận biết
+Lớp 7,Bài 3,CH02,Đặc điểm nào sau đây tạo nên một mật khẩu mạnh?,Thông hiểu
+Lớp 7,Bài 3,LT01,Em hãy nêu các chức năng của hệ điều hành.,Nhận biết
+Lớp 7,Bài 3,LT02,"Phát biểu nào sau đây là sai?
+A. Người sử dụng xử lí những yêu cầu cụ thể bằng phần mềm ứng dụng.
+B. Để phần mềm ứng dụng chạy được trên máy tính phải có hệ điều hành.
+C. Để máy tính hoạt động được phải có phần mềm ứng dụng.
+D. Để máy tính hoạt động được phải có hệ điều hành.",Thông hiểu
+Lớp 7,Bài 3,VD01,"Khi tải Scratch để cài đặt lên máy tính, tại sao cần phải chọn phiên bản phù hợp với hệ điều hành trên máy tính của em?",Vận dụng
+Lớp 7,Bài học,CH01,Thuật toán tìm kiếm tuần tự thực hiện công việc gì?,Nhận biết
+Lớp 7,Bài học,CH02,Thuật toán tìm kiếm tuần tự thực hiện công việc như thế nào?,Thông hiểu
+Lớp 7,Bài học,VD1,Em hãy lập danh sách những cuốn sách mà em có. Sau đó sử dụng thuật toán tìm kiếm tuần tự để tìm một cuốn sách trong danh sách đó.,Vận dụng
+Lớp 7,Bài 4,CH01,Không nên dùng mạng xã hội cho mục đích nào sau đây?,Nhận biết
+Lớp 7,Bài 4,CH02,"""Đưa thông tin sai sự thật lên mạng, sử dụng thông tin vào mục đích sai trái là hành vi bị nghiêm cấm và có thể bị phạt theo quy định của pháp luật"". Theo em điều đó là:",Thông hiểu
+Lớp 7,Bài 4,CH03,Thực hành tạo cây thư mục như Hình 3.3 và thực hiện: Đổi tên thư mục 'HoangHon' thành 'ChieuToi'; Di chuyển các tệp và thư mục con của thư mục 'BinhMinh' sang thư mục 'BanNgay'; Xoá thư mục 'BinhMinh'.,Vận dụng
+Lớp 7,Bài 4,LT1,Đâu là chương trình máy tính giúp em quản lí tệp và thư mục?,Nhận biết
+Lớp 7,Bài 4,LT2,Đâu là phần mềm có thể bảo vệ máy tính tránh được virus?,Nhận biết
+Lớp 7,Bài 4,VD1,"Em hãy lựa chọn một thiết bị lưu trữ để sao lưu thư mục ""DuLich"". Giải thích tại sao em lựa chọn cách sao lưu đó.",Vận dụng
+Lớp 7,Bài 4,VD2,"Sau khi học xong bài này và có thêm các kiến thức về sao lưu, bảo vệ dữ liệu, em có thay đổi cách bảo vệ dữ liệu mà em đã chọn trong Hoạt động 2 không? Tại sao?",Vận dụng
+Lớp 7,Bài 4,HĐ1,"1. Ở lớp 6 em đã biết sử dụng Internet để nhận và gửi thông tin. Đó là cách nào?
+2. Em có biết cách trao đổi thông tin nào trên Internet đang được sử dụng nhiều nhất không? Tại sao?",Thông hiểu
+Lớp 7,Bài học,LT1,"Cho danh sách tên các nước sau đây: Bolivia, Albania, Scotland, Canada, Vietnam, Iceland, Portugal, Greenland, Germany. Em hãy kẻ Bảng 14.3 vào vở và điền các bước thực hiện thuật toán tìm kiếm tuần tự để tìm tên nước Iceland trong danh sách trên (dòng 1 là ví dụ minh họa).",Vận dụng
+Lớp 7,Bài học,LT2,"Theo em, hai hoạt động trên mạng nào sau đây dễ gây bệnh nghiện Internet nhất?
+A. Chơi trò chơi trực tuyến.
+B. Đọc tin tức.
+C. Sử dụng mạng xã hội.
+D. Học tập trực tuyến.
+E. Trao đổi thông tin qua thư điện tử.",Thông hiểu
+Lớp 7,Bài học,VD2,"Nếu một trong những người bạn của em có biểu hiện nghiện trò chơi trực tuyến, em sẽ làm gì để giúp bạn?",Vận dụng
+Lớp 7,Bài 5,CH01,Những cách ứng xử nào sau đây là hợp lí khi truy cập một trang web có nội dung xấu?,Thông hiểu
+Lớp 7,Bài 5,CH02,Theo em những đặc điểm khác nhau giữa giao tiếp gặp gỡ trực tiếp và giao tiếp qua mạng là gì?,Thông hiểu
+Lớp 7,Bài 5,CH03,Tại sao có những bạn khi giao tiếp qua mạng lại thiếu văn minh hơn so với khi giao tiếp trực tiếp?,Vận dụng
+Lớp 7,Bài 6,CH01,Một ô có thể coi là một vùng được không?,Thông hiểu
+Lớp 7,Bài 6,CH02,Vùng A5:B10 có bao nhiêu ô?,Thông hiểu
+Lớp 7,Bài 6,CH03,Có thể chọn một vùng hình tam giác được không?,Thông hiểu
+Lớp 7,Bài 6,HĐ3_CH01,Có thể nhập dữ liệu vào trang tính theo bao nhiêu cách? Hãy nêu các cách đó.,Thông hiểu
+Lớp 7,Bài 6,HĐ3_CH02,Dữ liệu được nhập vào các ô sẽ được tự động căn chỉnh như thế nào?,Nhận biết
+Lớp 7,Bài thực hành (tiếp theo),LT1,Muốn xoá nhanh dữ liệu trong một vùng thì em làm thế nào?,Thông hiểu
+Lớp 7,Bài thực hành (tiếp theo),LT2,Có bao nhiêu cách nhập dữ liệu vào trang tính? Em hãy mô tả các cách đó.,Thông hiểu
+Lớp 7,Bài thực hành (tiếp theo),VD1,"Vì sao khi nhập 12/15/2020 thì phần mềm tự động căn phải, nhưng nếu nhập 15/12/2020 thì phần mềm tự động căn trái?",Vận dụng
+Lớp 7,Bài thực hành (tiếp theo),VD2,"Em hãy tìm một số loại cây có thể mua và trồng cho dự án Trường học xanh. Em hãy tạo một bảng tính và đặt tên là Danh sách các loại cây. Bảng tính có ba cột là STT, Loại cây (Cây hoa, Cây ăn quả, Cây bóng mát) và Tên cây. Nhập dữ liệu vào bảng tính rồi chỉnh sửa và định dạng dữ liệu.",Vận dụng
+Lớp 7,Bài 7,CH01,"Trong phần mềm bảng tính, những công thức tính nào dưới đây sai? Vì sao?
+A. = 5^2 + 6*101
+B. = 6*(3 + 2)
+C. = 2(3 + 4)
+D. = 1^2 + 2^2",Thông hiểu
+Lớp 7,Bài 7,VD01,"Em hãy cho biết, nếu nhập công thức vào một ô tính và tính toán với giá trị nằm ở ô khác thì phải làm thế nào?",Vận dụng
+Lớp 7,Bài học,CH03,"Có nên viết nhiều chữ, dùng nhiều màu trên một trang không? Vì sao?",Thông hiểu
+Lớp 7,Bài học (Tiếp theo),LT1,"Em hãy tạo một trang tính mới trong bảng tính của dự án, đặt tên là 3. Tìm hiểu giống cây. Tiến hành nhập dữ liệu là danh sách các loại cây cụ thể và đơn giá. Định dạng cho trang tính như Hình 7.10 và lưu lại kết quả.",Vận dụng
+Lớp 7,Bài học (Tiếp theo),LT2,Nhập công thức = D4 * E4 vào ô F4. Sao chép ô F4 xuống các ô từ F5 đến F19 để tính giá trị của cột Thành tiền.,Vận dụng
+Lớp 7,Bài học (Tiếp theo),VD1,"Phần mềm bảng tính mặc định căn phải dữ liệu là số và ngày tháng, căn trái dữ liệu là văn bản. Em có thể thay đổi lại cách căn lề cho dữ liệu số, ngày tháng và văn bản được không? Nếu có thì bằng lệnh nào?",Thông hiểu
+Lớp 7,Bài học (Tiếp theo),VD2,"Em hãy tạo một bảng tính mới, nhập dữ liệu cho bảng tính như Hình 7.11, nhập công thức tính tổng diện tích rừng cho tỉnh Hà Giang và sao chép công thức để tính cho các tỉnh còn lại. Lưu tệp bảng tính với tên Dientichrung.xlsx.",Vận dụng
+Lớp 7,Bài 8,CH01,"Mỗi hàm sau cho kết quả như thế nào?
+a) SUM(1,3, ""Hà Nội"", ""Zero"", 5)
+b) MIN(3,5, ""One"", 1)
+c) COUNT(1,3,5,7)",Thông hiểu
+Lớp 7,Bài 8,CH02,Các tham số của hàm có thể là địa chỉ ô hoặc vùng dữ liệu không?,Thông hiểu
+Lớp 7,Bài 8,CH03,"Để tính giá trị trung bình cộng của một vùng dữ liệu từ ô C4 đến ô I8, hàm nào sau đây là đúng?",Nhận biết
+Lớp 7,Bài thực hành tổng hợp,CH01,"Để tính tổng số cây Hoa Mười giờ của các lớp từ cột D đến cột J tại ô K4, công thức nào sau đây là đúng?",Vận dụng
+Lớp 7,Bài thực hành tổng hợp,CH02,"Để tính số cây Hoa Mười giờ trung bình của mỗi lớp (từ cột D đến cột J) tại ô L4, công thức nào sau đây là chính xác?",Vận dụng
+Lớp 7,Bài thực hành (hoặc Bài học tổng hợp),LT1,"Tại các ô K9, K17, K24 trong trang tính 4. Dự kiến kết quả có thể dùng công thức khác được không? Nếu có thì dùng công thức gì? Từ đó em rút ra điều gì?",Thông hiểu
+Lớp 7,Bài thực hành (hoặc Bài học tổng hợp),LT2,"Các công thức sau đây có cho kết quả giống nhau hay không?
+a) =SUM(C3:K3)
+b) =C3 + SUM(D3:J3) + K3
+c) =SUM(C3:G3) + SUM(H3:K3)",Thông hiểu
+Lớp 7,Bài thực hành (hoặc Bài học tổng hợp),LT3,"Dựa trên dữ liệu của Bảng 4. Dự kiến phân bổ cây cho các lớp, em hãy thực hành để:
+a) Tìm số cây lớn nhất sẽ được trồng của các lớp.
+b) Tính số cây trung bình sẽ được trồng của các lớp.",Vận dụng
+Lớp 7,Bài thực hành (hoặc Bài học tổng hợp),VD1,"Em hãy tạo bảng tính và nhập dữ liệu ghi lại các khoản chi tiêu của gia đình em trong một tháng. Sử dụng các hàm để tính toán và trả lời những câu hỏi sau:
+a) Tổng số tiền chi tiêu một tháng là bao nhiêu?
+b) Khoảng chi nhiều nhất, ít nhất là bao nhiêu?
+c) Có bao nhiêu khoản đã chi?
+d) Trung bình mỗi ngày chi bao nhiêu tiền?
+Em hãy chia sẻ với bố mẹ những kết quả em tính toán được để cùng cân đối chi tiêu cho hợp lí.",Vận dụng
+Lớp 7,Bài,CH01,Theo em việc định dạng dữ liệu và trình bày bảng tính có khác nhau không?,Thông hiểu
+Lớp 7,Bài,CH02,Các lệnh trình bày bảng tính hay định dạng dữ liệu có làm thay đổi dữ liệu trên bảng tính không?,Thông hiểu
+Lớp 7,Bài 9,CH01,"Trong bảng dữ liệu của Hình 9.12, các hàm SUM, AVERAGE, COUNT, MIN, MAX sẽ xử lý như thế nào đối với các ô chứa dữ liệu dạng văn bản (như 'Không', 'Đang làm') hoặc ô trống?",Thông hiểu
+Lớp 7,Bài 9,CH02,"Quan sát Hình 9.12, công thức tại ô J5 được viết như thế nào?",Nhận biết
+Lớp 7,Bài 9,CH03,Điều gì xảy ra với dữ liệu trong các ô khác (ngoài ô đầu tiên bên trái) khi em thực hiện thao tác gộp một vùng dữ liệu?,Thông hiểu
+Lớp 7,Bài 9,LT1,Có thể sao chép công thức từ trang tính này sang trang tính khác được không?,Thông hiểu
+Lớp 7,Bài 9,LT2,Phần mềm bảng tính điện tử có thể gộp các ô trong một vùng không là hình chữ nhật không?,Thông hiểu
+Lớp 7,Bài 9,VD1,Em hãy quan sát Bảng 5. Dự kiến phân bổ cây dự án Trường học xanh ở Hình 9.13 và hãy trả lời các câu hỏi sau: a) Tổng số cây của toàn bộ khối 7 sẽ trồng là bao nhiêu? b) Trung bình mỗi lớp sẽ trồng bao nhiêu cây?,Vận dụng
+Lớp 7,Bài 9,VD2,"Giả sử trước khi thực hiện dự án nhà trường giao chỉ tiêu trồng mỗi loại cây hoa là 50, dựa trên dữ liệu trong Bảng 5. Dự kiến phân bổ cây dự án Trường học xanh, em hãy tính tỉ lệ phần trăm của từng loại cây hoa được phân bổ so với chỉ tiêu đã giao.",Vận dụng
+Lớp 7,Bài 10,CH01,"Để in một vùng dữ liệu được chọn trong bảng tính điện tử, tại hộp thoại Print, ta chọn tùy chọn nào ở mục vùng in?",Thông hiểu
+Lớp 7,Bài 10,LT1,"Quan sát lệnh in một trang tính và so sánh với lệnh in văn bản mà em đã học ở lớp 6, có điểm gì khác nhau giữa hai lệnh in này?",Thông hiểu
+Lớp 7,Bài 10,LT2,Em hãy thực hiện lệnh in bảng dữ liệu rút gọn bằng cách ẩn đi tất cả các cột ứng với các lớp cụ thể từ 7A đến 7H.,Vận dụng
+Lớp 7,Bài 10,VD1,"Em hãy giúp cô giáo tạo trang tính Điểm thi khảo sát có các cột Họ và tên, Toán, Ngữ văn, Tiếng Anh và Điểm trung bình. Dùng các hàm hay công thức để tính toán rồi trình bày trang tính.",Vận dụng
+Lớp 7,Bài 11,LT1,Ưu điểm của việc sử dụng cấu trúc phân cấp trong bài trình chiếu là gì?,Thông hiểu
+Lớp 7,Bài 11,LT2,Em hãy tạo trang chiếu ghi các công việc cần làm trong ngày và sử dụng cấu trúc phân cấp để trình bày nội dung.,Vận dụng
+Lớp 7,Bài 11,VD1,"Em hãy đề xuất một dự án mà em nhận thấy nó thiết thực với điều kiện hiện tại. (Ví dụ: Làm sạch đẹp cảnh quan ngôi nhà của em; Trang trí thư viện của trường để thu hút các bạn học sinh đến đọc sách; Tái chế rác thải;...). Tạo bài trình chiếu để trình bày dự án đó (mục tiêu, cách làm, tác dụng, hiệu ứng,...) với những người có liên quan để thuyết phục mọi người cùng thực hiện. Trong bài có trang tiêu đề, các trang nội dung có tiêu đề trang và sử dụng cấu trúc phân cấp. Ghi lại bài trình chiếu với tên Baitaptinhoc7.pptx.",Vận dụng
+Lớp 7,Bài 12,HĐ1,Theo em có nên sử dụng hình ảnh để minh hoạ cho bài trình chiếu không? Vì sao? Em sẽ chọn hình ảnh gì để thêm vào bài trình chiếu báo cáo dự án?,Thông hiểu
+Lớp 7,Bài 12,CH01,"Để đưa hình ảnh nằm phía sau lớp văn bản trong phần mềm trình chiếu, em sử dụng lệnh nào sau đây?",Thông hiểu
+Lớp 7,Bài 12,LT1,Em hãy bổ sung thêm một hình ảnh vào trang trình bày ý tưởng (Hình 12.5) rồi định dạng hình ảnh đó sao cho hợp lí.,Vận dụng
+Lớp 7,Bài 12,LT2,Em hãy bổ sung kết quả tính toán của dự án Trường học xanh đã làm trong phần mềm bảng tính vào bài trình chiếu (có thể ở trang Dự kiến kết quả).,Vận dụng
+Lớp 7,Bài 12,LT3,"Em hãy định dạng văn bản, biên tập nội dung cho các trang chiếu của tệp trình chiếu Truonghocxanh.pptx. Chọn mẫu định dạng phù hợp cho các trang chiếu.",Vận dụng
+Lớp 7,Bài 12,VD1,"Em hãy mở tệp Baitaptinhoc7.pptx mà em đã tạo ở Bài 11, bổ sung thông tin vào các trang chiếu của bài trình chiếu (bằng cách sao chép dữ liệu từ tệp văn bản hoặc nhập mới từ bàn phím). Sau khi đã có nội dung em cần tạo cấu trúc phân cấp, chèn hình ảnh, chọn mẫu định dạng cho trang chiếu và định dạng cho văn bản, hình ảnh.",Vận dụng
+Lớp 7,Bài 13,CH01,Em hãy ghép mỗi nội dung ở cột A với một nội dung phù hợp ở cột B.,Thông hiểu
+Lớp 7,Bài 13,CH02,Sử dụng hiệu ứng động cần lưu ý những điều gì? Tại sao?,Thông hiểu
+Lớp 7,Bài 13,LT1,Em hãy tạo hiệu ứng cho các trang và đối tượng để hoàn thiện bài trình chiếu báo cáo dự án của nhóm em.,Vận dụng
+Lớp 7,Bài 13,VD1,"Em hãy bổ sung hiệu ứng động cho bài trình chiếu ghi trong tệp Baitaptinhoc7.pptx. Xem lại nội dung, định dạng, hiệu ứng của từng trang để hoàn thiện bài trình chiếu.",Vận dụng
+Lớp 7,Bài 14,HD01,Em hãy kẻ Bảng 14.2 vào vở và điền các bước thực hiện thuật toán tìm kiếm tuần tự để tìm ra địa chỉ của khách hàng có họ tên là 'Thanh Trúc'.,Vận dụng
+Lớp 7,Bài 15,HD1,"Em hãy cho biết thuật toán tìm kiếm tuần tự phải thực hiện bao nhiêu bước lặp để tìm được khách hàng tên ""Trúc"" trong danh sách ở Hình 15.1? Em hãy so sánh số bước lặp thực hiện của thuật toán tìm kiếm tuần tự với số bước lặp thực hiện của thuật toán tìm kiếm nhị phân.",Thông hiểu
+Lớp 7,Bài 15,HD2,"Theo em trước khi thực hiện thuật toán tìm kiếm nhị phân, danh sách khách hàng cần thoả mãn điều kiện gì? Nếu không thoả mãn điều kiện đó, thuật toán tìm kiếm nhị phân có thực hiện được không?",Nhận biết
+Lớp 7,Bài 15,CH01,Em hãy nêu ví dụ trong thực tế cho thấy mối liên quan giữa sắp xếp và tìm kiếm.,Thông hiểu
+Lớp 7,Bài 15,LT01,"Cho danh sách tên các nước sau đây: Bolivia, Albania, Scotland, Canada, Vietnam, Iceland, Portugal, Greenland, Germany.
+a) Em hãy sắp xếp danh sách tên các nước theo thứ tự trong bảng chữ cái.
+b) Em hãy liệt kê các bước lặp tìm kiếm tên nước Iceland trong danh sách đã sắp xếp theo thuật toán tìm kiếm nhị phân.
+c) Em hãy so sánh số bước lặp thực hiện tìm kiếm ở phần b với số bước lặp thực hiện tìm kiếm ở phần Luyện tập của bài 14.",Vận dụng
+Lớp 7,Bài 15,LT02,Em hãy cho ví dụ một bài toán tìm kiếm trong thực tế mà có thể thực hiện bằng thuật toán tìm kiếm nhị phân. Hãy thực hiện thuật toán tìm kiếm nhị phân để giải quyết bài toán đó.,Vận dụng
+Lớp 7,Bài 15,VD01,Em tìm một từ tiếng Anh trong quyển từ điển theo cách nào? Tại sao em lại dùng cách đó?,Vận dụng
+Lớp 7,Bài 16,CH01,Thuật toán sắp xếp nổi bọt sắp xếp danh sách bằng cách:,Nhận biết
+Lớp 8,Bài 1,LT1,Em hãy nêu một ví dụ cho thấy sự khác nhau rõ ràng trong hoạt động học tập khi chưa có và khi có các thiết bị công nghệ số hiện nay.,Thông hiểu
+Lớp 8,Bài 1,LT2,Em hãy nêu ví dụ về một ứng dụng mà em cho là thông minh của những máy tính thế hệ mới.,Thông hiểu
+Lớp 8,Bài 1,VD1,"Em hãy cho biết vào thời điểm đất nước ta hoàn toàn thống nhất năm 1975, những thế hệ máy tính điện tử nào đã xuất hiện ở nước ta?",Vận dụng
+Lớp 8,Bài 1,VD2,Em hãy đưa ra một dự báo về ứng dụng của máy tính trong tương lai. Hãy giải thích cơ sở của dự báo đó.,Vận dụng
+Lớp 8,Bài 2,HĐ1_CH01,"Trong Hoạt động 1, An có thể nhận được ảnh bằng cách nào?",Thông hiểu
+Lớp 8,Bài 2,HĐ1_CH02,"Sau khi An nhận được ảnh, Khoa có bị mất bức ảnh gốc không?",Nhận biết
+Lớp 8,Bài 2,HĐ1_CH03,An có thể lưu trữ ảnh vào những thiết bị nào?,Thông hiểu
+Lớp 8,Bài 1,CH01,"Theo nội dung bài học, thông tin số có những đặc điểm chính nào?",Nhận biết
+Lớp 8,Bài 1,CH02,"Khi An lấy bức ảnh ruộng bậc thang nhận được từ Khoa để làm nền cho ảnh của mình và đưa lên mạng xã hội, điều đó minh họa cho đặc điểm nào của thông tin số?",Thông hiểu
+Lớp 8,Bài 2,LT1,"Em hãy kể tên ba ứng dụng thu thập nhiều thông tin từ người sử dụng và cho biết: a) Tổ chức, cá nhân nào sở hữu các ứng dụng đó? b) Mỗi ứng dụng thu thập dạng thông tin nào?",Thông hiểu
+Lớp 8,Bài 2,LT2,Em hãy đánh giá độ tin cậy của thông tin được cung cấp từ ba ứng dụng ở Câu 1.,Vận dụng
+Lớp 8,Bài 2,VD1,"Em hãy tìm kiếm trên Internet thông tin về một đội bóng, một cầu thủ hoặc một nhân vật mà em yêu thích.",Vận dụng
+Lớp 8,Bài 2,VD2,"Em hãy phân tích mức độ tin cậy của nguồn tin tìm được ở Câu 1 và trình bày một bài giới thiệu về đội bóng, cầu thủ nhân vật đó.",Vận dụng
+Lớp 8,Bài 2,VD3,Em hãy kể một ví dụ về tin đồn (trong cuộc sống hoặc trên mạng) và cho biết: a) Tin đồn đó xuất hiện từ sự việc nào? b) Tác hại của tin đồn đó là gì?,Vận dụng
+Lớp 8,Bài 3,CH01,"Để tìm hiểu về cách sử dụng một chiếc máy ảnh mới, nguồn thông tin nào sau đây cần được tham khảo nhất?",Thông hiểu
+Lớp 8,Bài 3,CH02,"Để tìm hiểu về một đội bóng đá ở châu Phi, nguồn thông tin nào sau đây đáng tin cậy nhất?",Thông hiểu
+Lớp 8,Bài 3,CH03,"Nếu được quyết định thiết kế một nhà máy điện, em sẽ chọn cách nào để sản xuất điện? Tại sao cách đó tốt hơn những cách khác?",Vận dụng
+Lớp 8,Bài 3,VD1,"Em hãy tìm thông tin về một đội bóng, một cầu thủ hay một nghệ sĩ mà em hâm mộ. Hãy đánh giá những nguồn thông tin tìm được.",Vận dụng
+Lớp 8,Bài 4,CH01,Em có cảnh báo và lời khuyên gì với bạn trong tình huống: Bạn em quay video các bạn trong lớp có hành vi bạo lực và đăng lên mạng xã hội?,Vận dụng
+Lớp 8,Bài 4,CH02,Em có cảnh báo và lời khuyên gì với bạn trong tình huống: Một người bạn sử dụng ảnh em chụp để tham gia một cuộc thi ảnh nhưng chưa có sự đồng ý của em?,Vận dụng
+Lớp 8,Bài 4,LT01,"Em hãy xác định các hành động dưới đây là vi phạm hay không vi phạm đạo đức, pháp luật và văn hoá khi sử dụng công nghệ kĩ thuật số: a) Chia sẻ thông tin mua bán động vật hoang dã quý hiếm.",Thông hiểu
+Lớp 8,Bài 4,LT02,"Em hãy xác định các hành động dưới đây là vi phạm hay không vi phạm đạo đức, pháp luật và văn hoá khi sử dụng công nghệ kĩ thuật số: b) Tạo một trang cá nhân để chia sẻ những kinh nghiệm học tập của mình.",Thông hiểu
+Lớp 8,Bài 4,LT03,"Em hãy xác định các hành động dưới đây là vi phạm hay không vi phạm đạo đức, pháp luật và văn hoá khi sử dụng công nghệ kĩ thuật số: c) Quay và lan truyền video bạo lực học đường.",Thông hiểu
+Lớp 8,Bài 4,LT04,"Em hãy xác định các hành động dưới đây là vi phạm hay không vi phạm đạo đức, pháp luật và văn hoá khi sử dụng công nghệ kĩ thuật số: d) Sáng tác một bài thơ về lớp và gửi bạn bè cùng đọc.",Thông hiểu
+Lớp 8,Bài 4,LT05,"Em hãy xác định các hành động dưới đây là vi phạm hay không vi phạm đạo đức, pháp luật và văn hoá khi sử dụng công nghệ kĩ thuật số: e) Tham gia cá cược bóng đá qua Internet.",Thông hiểu
+Lớp 8,Bài 4,LT06,"Em hãy xác định các hành động dưới đây là vi phạm hay không vi phạm đạo đức, pháp luật và văn hoá khi sử dụng công nghệ kĩ thuật số: f) Chia sẻ địa chỉ một website có chứa các bộ phim không có bản quyền sử dụng.",Thông hiểu
+Lớp 8,Bài 4,VD01,"Em hãy tạo một sản phẩm số theo cách sáng tạo để hướng dẫn các bạn hiểu đúng về việc sử dụng công nghệ kĩ thuật số. Em hãy đảm bảo sản phẩm của mình thể hiện được đạo đức, tính văn hoá và không vi phạm pháp luật nhé.",Vận dụng
+Lớp 8,Bài 5,CH01,"Trong Hình 5.3, công thức tại ô F5 là =E5*$F$2. Sao chép công thức này đến ô F6, kết quả sao chép là:",Vận dụng
+Lớp 8,Bài,CH01,"Em hãy nhập công thức để tính Doanh thu của công ti cho phần mềm Quản lí thời gian và Trò chơi sáng tạo vào ô F4 và F5, biết rằng: Doanh thu của công ti = Doanh thu * Tỉ lệ (được lưu ở ô F2).",Vận dụng
+Lớp 8,Bài,CH02,Nếu sao chép công thức từ ô F4 vào ô F5 thì công thức nhận được tại ô F5 có đúng yêu cầu không? Vì sao?,Thông hiểu
+Lớp 8,Bài 5,CH02,Cách nhập kí hiệu $ cho địa chỉ tuyệt đối là:,Thông hiểu
+Lớp 8,Bài 6,CH01,Em hãy nêu tiêu chí sắp xếp danh sách học sinh theo thứ tự của bảng chữ cái trong bảng kết quả ở Hình 6.2.,Thông hiểu
+Lớp 8,Bài học (tiếp theo),CH01,"Theo em có thể sắp xếp bảng kết quả khảo sát lớp 8A (Hình 6.2) theo tổ, nếu cùng tổ sắp xếp theo tên, nếu cùng tên sắp xếp theo họ đệm được không? Hãy thực hiện sắp xếp trên bảng tính.",Vận dụng
+Lớp 8,Bài học (tiếp theo),CH02,Chức năng lọc dữ liệu trong phần mềm bảng tính dùng để làm gì?,Nhận biết
+Lớp 8,Bài học,LT1,"Đọc nội dung phần Luyện tập: Để phục vụ cho việc thành lập CLB Tin học của trường, các bạn học sinh lớp 8A đã thực hiện một cuộc khảo sát trong khối 8 để tìm hiểu sự ảnh hưởng của công nghệ kĩ thuật số đến cuộc sống của học sinh. Bảng dữ liệu dưới đây thống kê số học sinh của mỗi lớp đã trả lời câu hỏi “Bạn dành khoảng bao nhiêu giờ mỗi ngày sử dụng thiết bị số (điện thoại thông minh, máy tính bảng, máy tính,...) ngoài giờ học ở trường?”. Em hãy thực hiện: a) Tạo bảng dữ liệu và định dạng theo mẫu ở Hình 6.9 và lưu tệp với tên TGSDThietbiso.xlsx. b) Sắp xếp bảng dữ liệu theo thứ tự giá trị giảm dần của cột Không sử dụng. c) Sắp xếp bảng dữ liệu theo hai tiêu chí: giá trị giảm dần của cột Không sử dụng, nếu bằng nhau thì sắp xếp theo giá trị giảm dần của cột Dưới 1 giờ. d) Lọc danh sách các lớp không có học sinh sử dụng thiết bị số từ 5 giờ trở lên.",Vận dụng
+Lớp 8,Bài học,VD1,"Đọc nội dung phần Vận dụng: Ngoài các chức năng lọc mà em đã tìm hiểu trong phần thực hành, phần mềm bảng tính còn có chức năng lọc theo điều kiện. Khi nháy chuột vào nút lệnh lọc dữ liệu, em còn thấy tuỳ chọn Number Filters (hoặc Text Filters) nếu phần lớn các ô trong cột đó chứa dữ liệu số (hoặc kí tự). Em hãy mở tệp dữ liệu TGSDThietbiso.xlsx, tìm hiểu chức năng Number Filters để lọc danh sách các lớp có số học sinh sử dụng thiết bị số từ 3 đến 4 giờ lớn hơn hoặc bằng 10 học sinh.",Vận dụng
+Lớp 8,Bài 7,HĐ1,"1. Trong hai cách trình bày dữ liệu ở Hình 7.1 và Hình 7.2, cách nào hiệu quả hơn để so sánh trực quan số học sinh quan tâm các nội dung Tin học?
+2. Nếu cần so sánh tỉ lệ phần trăm số học sinh của mỗi nội dung Tin học trên tổng số học sinh được khảo sát, em sẽ dùng cách nào để thể hiện dữ liệu?",Thông hiểu
+Lớp 8,Bài 7,CH01,Em hãy nêu một số tình huống thực tế cần tạo biểu đồ.,Vận dụng
+Lớp 8,Bài 7,LT1,"Em hãy mở tệp TGSDThietbiso.xlsx đã lưu ở Bài 6. Dùng hàm SUM để tính tổng số học sinh sử dụng thiết bị số trong mỗi khoảng thời gian (kết quả tương tự như Hình 7.8) rồi thực hiện: a) Vẽ biểu đồ cột thể hiện số học sinh sử dụng thiết bị số của mỗi khoảng thời gian. Từ biểu đồ kết quả, em có nhận xét gì về tình hình sử dụng thiết bị của học sinh khối 8? b) Vẽ biểu đồ hình quạt tròn thể hiện tỉ lệ phần trăm của số học sinh sử dụng thiết bị số theo mỗi khoảng thời gian.",Vận dụng
+Lớp 8,Bài 7,LT2,"Cho biểu đồ về doanh thu công nghiệp phần mềm giai đoạn 2016 – 2020 như Hình 7.9. a) Từ biểu đồ, em có nhận xét gì về doanh thu công nghiệp phần mềm giai đoạn 2016 – 2020? b) Em hãy tạo bảng dữ liệu trong phần mềm bảng tính từ biểu đồ trên. c) Em hãy tạo biểu đồ cột từ bảng dữ liệu có được ở câu b.",Vận dụng
+Lớp 8,Bài 7,VD1,"Từ bảng dữ liệu về doanh thu công nghiệp phần mềm giai đoạn 2016 – 2020 đã tạo ra trên phần mềm bảng tính ở Câu 2, phần Luyện tập, em hãy tạo biểu đồ đường thẳng, từ đó nhận xét xu hướng của dữ liệu.",Vận dụng
+Lớp 8,Bài 8a,HĐ1,"Em hãy quan sát Hình 8a.2, Hình 8a.3 và cho nhận xét về hai cách trình bày nội dung.",Thông hiểu
+Lớp 8,Bài 8a,CH01,"Với danh sách có thứ tự ở Hình 8a.4a, nếu em đặt con trỏ soạn thảo ở cuối dòng thứ hai rồi nhấn phím Enter để thêm một đoạn văn bản mới thì em sẽ thu được kết quả như ở Hình 8a.4b hay Hình 8a.4c?",Thông hiểu
+Lớp 8,Bài 8a,CH02,"Theo em, tờ rơi ở Hình 8a.5 hay Hình 8a.6 có hiệu quả trực quan và thu hút người đọc hơn?",Thông hiểu
+Lớp 8,Bài 8,CH01,"Em hãy chọn phương án đúng: A. Văn bản trên trang chiếu cần ngắn gọn, súc tích. B. Văn bản trên trang chiếu càng chi tiết, đầy đủ càng tốt. C. Sử dụng càng nhiều màu sắc cho văn bản trên trang chiếu càng giúp người nghe tập trung. D. Sử dụng nhiều loại phông chữ cho văn bản trên trang chiếu sẽ thu hút được sự chú ý của người nghe.",Thông hiểu
+Lớp 8,Bài 8,LT1,"Em hãy sử dụng phần mềm soạn thảo văn bản để nhập dữ liệu cho dự án Thành lập CLB Tin học, tạo danh sách dạng liệt kê cho dữ liệu theo mẫu ở Hình 8a.3 và lưu lại tệp với tên CLBTinhoc.docx.",Vận dụng
+Lớp 8,Bài 8,VD1,"Ngoài các mẫu danh sách liệt kê mà phần mềm soạn thảo cung cấp, người sử dụng có thể tự tạo các mẫu dấu đầu dòng, mẫu thứ tự theo ý thích của mình. Em hãy tìm hiểu cách làm và tạo ba mẫu dấu đầu dòng, mẫu thứ tự mới.",Vận dụng
+Lớp 8,Bài 8,VD2,"Em hãy sử dụng phần mềm soạn thảo văn bản để tạo một tờ rơi quảng cáo cho CLB Tiếng Anh (hoặc CLB Rubik, CLB bóng rổ,... của trường). Trong tờ rơi có sử dụng hình ảnh minh hoạ và hình đồ hoạ, sử dụng mẫu dấu đầu dòng, mẫu thứ tự mà em đã tạo ở Câu 1.",Vận dụng
+Lớp 8,Bài 9a,CH01,"Em hãy chọn phương án sai trong các phương án sau:
+A. Đánh số trang giúp người đọc biết độ dài của văn bản (nhìn số trang cuối).
+B. Đánh số trang, cùng với mục lục, giúp người đọc dễ dàng tìm thấy các phần cụ thể của văn bản.
+C. Đánh số trang cho phép trích dẫn một trang cụ thể của văn bản.
+D. Phần mềm soạn thảo văn bản không có chức năng đánh số trang tự động.",Thông hiểu
+Lớp 8,Bài 9,LT1,Em hãy mở tệp CLBTinhoc.docx và thực hiện các yêu cầu sau đây: a) Bổ sung thêm tên người hoặc tên nhóm thực hiện dự án vào đầu trang. b) Đặt lại số trang vào vị trí bên trái của chân trang.,Vận dụng
+Lớp 8,Bài 9,VD1,"Em hãy tìm hiểu cách thêm hình ảnh, hình đồ hoạ vào chân trang và đầu trang rồi bổ sung vào đầu trang và chân trang trong tệp CLBTinhoc.docx một đường thẳng theo mẫu như Hình 9a.7.",Vận dụng
+Lớp 8,Bài 8,CH02,"Theo em, các trang chiếu có cần đánh số không? Có cần thêm các thông tin vào đầu trang và chân trang không? Vì sao?",Vận dụng
+Lớp 8,Bài 10,LT1,"Em hãy chọn phương án sai trong các phương án sau:
+A. Đầu trang và chân trang có thể được định dạng phông chữ, cỡ chữ, màu chữ khác nhau.
+B. Có thể bỏ phần đầu trang và chân trang khỏi trang chiếu tiêu đề.
+C. Có thể tự động cập nhật thời gian vào thông tin ở đầu trang và chân trang.
+D. Những thông tin lựa chọn và nhập vào cửa sổ Header & Footer được tự động áp dụng cho tất cả các trang chiếu trong bài trình chiếu.",Thông hiểu
+Lớp 8,Bài 10,VD1,"Em hãy tạo bài trình chiếu giới thiệu một nội dung Tin học mà em chọn (ví dụ: giới thiệu một ngôn ngữ lập trình, giới thiệu về bảng tính điện tử,...) để trình chiếu trong buổi sinh hoạt CLB Tin học của trường. Hãy vận dụng kiến thức và kĩ năng đã biết để chọn màu sắc, định dạng văn bản, bày các trang chiếu hài hòa, hợp lí với nội dung; đánh số trang, thêm đầu trang, chân trang,...",Vận dụng
+Lớp 8,Bài 11,LT1,Phương án nào sau đây mô tả các bước sử dụng bản mẫu?,Thông hiểu
+Lớp 8,Bài 11,LT2,Em hãy thêm vào trang chiếu tiêu đề của tệp trình chiếu AnToanPhongThucHanh.pptx đường dẫn đến tệp văn bản lưu trữ các kí hiệu cảnh báo trong phòng thực hành để có thể mở ra giới thiệu cho người nghe trong khi trình chiếu.,Vận dụng
+Lớp 8,Bài 11,VD1,"Em hãy tìm một bản mẫu (có sẵn trong phần mềm trình chiếu hoặc được chia sẻ trên mạng) và sử dụng để tạo lại bài trình chiếu trong tệp LeRaMatCLBTinhoc.pptx. Thực hiện thay đổi các định dạng cần thiết để tạo một bản mẫu phù hợp với bài trình chiếu. Ghi lại tệp trình chiếu dưới dạng bản mẫu, tên tệp có dạng .potx để tái sử dụng và chia sẻ khi cần.",Vận dụng
+Lớp 8,Bài 10,CH01,Chọn phát biểu đúng nhất về hoạt động gỡ lỗi.,Thông hiểu
+Lớp 8,Bài 10b,LT1,"Em hãy sử dụng phần mềm GIMP để mở các tệp ảnh trong thư mục HINHANH đã lưu ở Bài 9b. Sử dụng các công cụ hiệu ứng cho ảnh để điều chỉnh độ sáng, độ tương phản, làm mờ,... bổ sung văn bản vào ảnh (nếu cần) để có được những bức ảnh đẹp giới thiệu về ngôi trường của em.",Vận dụng
+Lớp 8,Bài 10b,VD1,"Em hãy sử dụng phần mềm chỉnh sửa ảnh để mở các tệp ảnh trong thư mục đã lưu ở phần Vận dụng, Bài 9b. Sử dụng các công cụ tạo hiệu ứng cho ảnh để điều chỉnh độ sáng, độ tương phản, làm mờ,... bổ sung văn bản vào ảnh (nếu cần) để có được những bức ảnh đẹp giới thiệu về chủ đề mà em yêu thích.",Vận dụng
+Lớp 8,Bài 11b,LT1,Em hãy sử dụng phần mềm GIMP và những tệp ảnh trong thư mục HINHANH mà em đã chỉnh sửa trong các phần Luyện tập ở các bài trước để tạo thành một tờ rơi giới thiệu về ngôi trường của em.,Vận dụng
+Lớp 8,Bài 11b,VD1,"Từ các hình ảnh về chủ đề mà em yêu thích đã được chỉnh sửa, hãy sử dụng các phần mềm ứng dụng đã biết (phần mềm chỉnh sửa ảnh, phần mềm soạn thảo văn bản, phần mềm trình chiếu, phần mềm sơ đồ tư duy,...) để tạo một sản phẩm số đơn giản (ví dụ một cuốn sách ảnh, một bài trình chiếu,...).",Vận dụng
+Lớp 8,Bài 12,CH01,Bạn An muốn bổ sung lệnh đợi 1 giây để điều khiển nhân vật dừng lại 1 giây sau khi đi hết mỗi cạnh của tam giác. Em hãy bổ sung lệnh này vào sơ đồ khối mô tả thuật toán và nêu vị trí đặt câu lệnh trong chương trình Scratch tương ứng ở Hình 12.3.,Vận dụng
+Lớp 8,Bài 12,LT1,Em hãy mô tả thuật toán bằng sơ đồ khối trong trường hợp đường đi của nhân vật là một hình vuông.,Thông hiểu
+Lớp 8,Bài 12,LT2,Em hãy nâng cấp chương trình VeHinh.sb3 bằng cách bổ sung một nhân vật mới và lập trình để khi nháy chuột vào nhân vật này thì chương trình thực hiện thuật toán vẽ hình vuông.,Vận dụng
+Lớp 8,Bài 12,LT3_a,"Bạn Khoa viết kịch bản mô tả hoạt động của xe ô tô chạy trên đường như sau: Khi xe cách hòn đá nhỏ hơn 120 bước, xe sẽ dừng lại (Hình 12.5). Em hãy hoàn thành sơ đồ khối theo kịch bản trên bằng cách ghép mỗi lệnh dưới đây với một ô phù hợp được đánh số 1 và 2 trong Hình 12.6:
+- 'Di chuyển 5 bước'
+- 'Cách hòn đá < 120 bước?'",Thông hiểu
+Lớp 8,Bài 12,LT3_b,Em hãy viết chương trình Scratch thực hiện thuật toán xe dừng lại khi cách hòn đá nhỏ hơn 120 bước theo kịch bản của bạn Khoa.,Vận dụng
+Lớp 8,Bài 12,VD1,"Trong bài học trên, đường đi của nhân vật là hình tam giác đều. Đường đi đó có thể là hình vuông, lục giác đều,... Khi đó các con số nào trong chương trình ở Hình 12.3 cần phải thay đổi?",Vận dụng
+Lớp 8,Bài 13,CH01,"Em hãy chỉ ra hằng, biến, biểu thức và kiểu dữ liệu tương ứng được sử dụng trong chương trình ở Hình 13.4.",Thông hiểu
+Lớp 8,Bài 13,LT01,"Giả sử r là biến lưu giá trị của bán kính hình tròn. Em hãy cho biết giá trị trả lại của các biểu thức sau và kiểu dữ liệu của chúng trong ngôn ngữ lập trình Scratch với trường hợp r = 5: a) (r > 0), b) (2 * 3.14 * r), c) (kết hợp 'Chu vi đường tròn là' (2 * 3.14 * r)).",Thông hiểu
+Lớp 8,Bài 13,LT02,"Em hãy sử dụng ngôn ngữ lập trình trực quan để viết chương trình tính chu vi đường tròn, diện tích hình tròn với giá trị của bán kính được nhập vào từ bàn phím, thông báo kết quả ra màn hình.",Vận dụng
+Lớp 8,Bài 13,VD01,"Em hãy viết chương trình Scratch của riêng mình để giải quyết một bài toán cụ thể trong một môn học như Khoa học tự nhiên, Toán học,... trong đó có sử dụng hằng, biến và biểu thức để thực hiện thuật toán.",Vận dụng cao
+Lớp 8,Bài 14,CH01,Cấu trúc lặp nào sau đây không được cho trước trong các nhóm lệnh của Scratch?,Thông hiểu
+Lớp 8,Bài 14,LT1,Em hãy ghép mỗi đoạn lệnh ở hàng trên với kết quả tương ứng mà đoạn lệnh đó vẽ ở hàng dưới trong Bảng 14.1.,Vận dụng
+Lớp 8,Bài 14,VD1,"Em hãy ghép các khối lệnh a, b, c, d vào các vị trí tương ứng 1, 2, 3, 4 ở Hình 14.8 để được thuật toán giải phương trình ax + b = 0 trong ngôn ngữ lập trình Scratch với các giá trị a, b nhập từ bàn phím.",Vận dụng
+Lớp 8,Bài 14,VD2,"Ước chung lớn nhất của hai số không thay đổi nếu thay số lớn bằng phần dư trong phép chia của nó cho số bé. Dựa trên nhận xét đó, ước chung lớn nhất của hai số không âm có thể được tính theo thuật toán được biểu diễn bằng sơ đồ khối trong Hình 14.9. Em hãy ghép các khối lệnh Scratch trong Hình 14.10 thành chương trình tính ước chung lớn nhất của hai số nguyên không âm.",Vận dụng
+Lớp 8,Bài 15,HĐ1,"Trong trò chơi Đoán số ở Bài 14, ai đoán đúng số bí mật với ít lần đoán hơn sẽ là người thắng cuộc. Ở chương trình trong Hình 15.1, biến số lần đoán được bổ sung để đếm số lần người chơi đoán và thông báo giá trị này khi người chơi đoán đúng số bí mật. Trước khi chia sẻ trò chơi của mình, em quyết định kiểm tra xem trò chơi có hoạt động tốt không. Hãy cho biết kết quả của việc kiểm thử đó bằng cách mô tả tình huống chương trình chạy không đúng kịch bản (nếu có).",Vận dụng
+Lớp 8,Bài 15,HĐ2,"Em hãy cho biết, chương trình đã cho trong Hình 15.1 không hoạt động được hay nó hoạt động nhưng đã thực hiện không đúng kịch bản?",Thông hiểu
+Lớp 8,Bài 10,HĐ3,"Xét tình huống máy tính hiển thị số lần đoán không đúng với số lần đoán thực tế của người chơi. Em hãy trả lời các câu hỏi: 1. Theo kịch bản, biến số lần đoán sẽ thay đổi trong tình huống nào? 2. Những khối lệnh nào làm thay đổi biến số lần đoán? 3. Có điều gì khác nhau giữa kịch bản và những khối lệnh tương ứng?",Vận dụng
+Lớp 8,Bài 15,CH01,Em hãy gỡ lỗi đoạn chương trình xác định một số n được nhập từ bàn phím là số chẵn hay số lẻ được cho trong Hình 15.3.,Vận dụng
+Lớp 8,Bài 15,CH02,"Giả sử trong trò chơi Đoán số, không ai được đoán quá 7 lần. Em hãy gỡ lỗi chương trình trò chơi Đoán số trong Hình 15.4.",Vận dụng
+Lớp 8,Bài 15,LT1,Em hãy chọn một cách khác với cách đã nêu trong phần b) Sửa lỗi của mục 2 để sửa lỗi của chương trình được cho trong Hình 15.1.,Vận dụng
+Lớp 8,Bài 15,VD1,"Đổi vai trò máy tính và người chơi trong trò chơi Đoán số. Em chọn một số nguyên trong khoảng từ 1 đến 120 và viết số đó ra giấy. Máy tính sẽ hiển thị một số mà em phải trả lời bằng các phím 'đ', 'c' hoặc 't' tương ứng với tình huống số máy tính hiển thị đúng, cao hơn hay thấp hơn số em đã chọn. Hãy viết chương trình để sau một số bước, càng ít càng tốt, máy tính tìm ra số em đã chọn. Chạy thử, phát hiện và sửa các lỗi của chương trình đó.",Vận dụng
+Lớp 8,Bài 16,CH01,"Hãy ghép mỗi ứng dụng ở cột B với một nghề phù hợp nhất ở cột A để chứng minh cho việc ứng dụng của tin học có thể tăng hiệu quả công việc: 1) Bác sĩ, 2) Giáo viên, 3) Kiến trúc sư, 4) Kế toán, 5) Nhà báo.",Thông hiểu
+Lớp 8,Bài 16,CH02,Em hãy kể ra những ứng dụng tin học mà các thầy cô giáo đã sử dụng để giúp em nâng cao hiệu quả của việc học tập.,Vận dụng
+Lớp 8,Bài 16,CH03,"Nếu có bạn nào đó nói với em 'Nghề nghiệp trong lĩnh vực tin học chỉ nên dành cho nam giới', em sẽ trả lời bạn như thế nào? Tại sao?",Vận dụng
+Lớp 8,Bài 16,CH04,Em biết những ngành nghề nào thuộc lĩnh vực tin học đang có nhiều phụ nữ làm việc?,Thông hiểu
+Lớp 9,Bài 1,CH01,Em hãy kể một số ví dụ cho thấy tác động của công nghệ thông tin lên giáo dục và xã hội.,Vận dụng
+Lớp 9,Bài 2,CH01,"Trong khi tìm thông tin về các trường THPT, bạn An đã không để ý đến thời gian đăng kí nguyện vọng dự thi và xét tuyển vào lớp 10 các trường THPT công lập. Theo em: a) Sơ suất này vi phạm tiêu chí nào về chất lượng thông tin? b) Điều đó có thể dẫn đến khó khăn gì cho bạn An?",Thông hiểu
+Lớp 9,Bài,CH01,"KOL là thuật ngữ viết tắt của Key Opinion Leader có nghĩa là người dẫn dắt dư luận chủ chốt hay người có ảnh hưởng. Khi em thấy một KOL quảng cáo sản phẩm trên mạng, em sẽ ứng xử thế nào?",Vận dụng
+Lớp 9,Bài 2,LT1,"Để chuẩn bị cho chuyến tham quan một nông trại, An gọi đến số điện thoại liên lạc được cung cấp trên trang web của nông trại nhưng không được. Minh cho rằng có thể đầu số điện thoại đã thay đổi nhưng nông trại chưa kịp cập nhật lên trang web nên đã tìm kiếm thông tin trên website của các nhà cung cấp dịch vụ viễn thông. Nhờ đó, Minh đã liên hệ thành công với nông trại. Em hãy nhận xét về chất lượng của thông tin (theo 4 tính chất ở Hình 2.2) mà mỗi bạn thu nhận được.",Vận dụng
+Lớp 9,Bài 2,VD1,Em hãy tìm trên Internet thông tin về chiếc máy tính điện tử kĩ thuật số đầu tiên trên thế giới. Đánh giá chất lượng thông tin tìm được.,Vận dụng
+Lớp 9,Bài học (tiếp theo),LT1,Em hãy nêu giải pháp đo điện áp giữa hai đầu một điện trở bằng cách sử dụng phần mềm mô phỏng.,Vận dụng
+Lớp 9,Bài học (tiếp theo),VD1,"Trong phần mềm mô phỏng, em có thể lắp ráp mạch điện gồm: nguồn điện, công tắc, điện trở, ampe kế, vôn kế. Bằng cách thay đổi trị số của các linh kiện, hãy khám phá quy luật phụ thuộc lẫn nhau giữa điện trở, cường độ dòng điện qua nó và điện áp giữa hai đầu điện trở đó.",Vận dụng
+Lớp 9,Bài 4,CH01,Phương án nào sau đây không phải là tác động tiêu cực của công nghệ kĩ thuật số đến đời sống con người?,Thông hiểu
+Lớp 9,Bài 4,CH02,Những phương án nào sau đây là tác động tiêu cực của công nghệ kĩ thuật số đến xã hội?,Thông hiểu
+Lớp 9,Bài học (trang 19),CH01,"Hành vi nào sau đây khi hoạt động trong môi trường số không vi phạm pháp luật, trái đạo đức, thiếu văn hóa?",Thông hiểu
+Lớp 9,Bài học (trang 19),CH02,"Minh nhận được một liên kết lạ từ một bạn mới quen trên mạng yêu cầu chia sẻ liên kết này cho 5 bạn và truy cập liên kết để nhận được một phần quà là chiếc ba lô rất đẹp. Theo em, Minh có nên làm theo yêu cầu đó không? Tại sao?",Vận dụng
+Lớp 9,Bài học (trang 19),LT01,"Em hãy cho biết những cách nào sau đây giúp em tránh được các tác động tiêu cực khi sử dụng công nghệ kĩ thuật số?
+A. Không sử dụng thiết bị số trong thời gian dài và liên tục.
+B. Không xem các video phản cảm.
+C. Giảm thời gian dùng điện thoại để nói chuyện với gia đình.
+D. Tham gia luyện tập thể thể thao.",Thông hiểu
+Lớp 9,Bài học (trang 19),LT02,"Em hãy lấy ví dụ về một hành vi vi phạm pháp luật, một hành vi trái đạo đức khi hoạt động trong môi trường số.",Vận dụng
+Lớp 9,Bài học (trang 19),VD01,Em hãy tìm hiểu các hành vi bị cấm trong Luật Công nghệ thông tin số 67/2006/QH11 và Nghị định số 72/2013/NĐ-CP. Hai văn bản này giống và khác nhau như thế nào?,Vận dụng
+Lớp 9,Bài học,CH01,Em hãy kể tên một phần mềm mô phỏng mà em biết. Phần mềm đó mô phỏng hoạt động của đối tượng nào?,Thông hiểu
+Lớp 9,Bài học,CH02,Phần mềm mô phỏng pha màu có những lợi ích gì trong việc tìm hiểu và tập pha trộn màu theo cách thông thường?,Vận dụng
+Lớp 9,Bài 6,CH01,"Để mở một tệp dữ liệu có sẵn trong phần mềm Geometer's Sketchpad, em thực hiện thao tác nào?",Nhận biết
+Lớp 9,Bài 6,CH02,"Trong phần mềm Geometer's Sketchpad, để thay đổi kích thước của hình sao sao cho độ dài đoạn thẳng thay đổi, em thực hiện thao tác nào?",Thông hiểu
+Lớp 9,Bài học (Trang 28),CH01,"Em hãy chỉ ra những kiến thức về tạo sơ đồ tư duy và bài trình chiếu mà em cần được bổ sung để việc trao đổi, hợp tác được hiệu quả.",Vận dụng
+Lớp 9,Bài 8,CH01,"Khi tạo trang dàn ý cho bài trình chiếu về chủ đề 'Lược sử công cụ tính toán', nội dung nào sau đây thường được đặt ở vị trí trung tâm hoặc mục đầu tiên để định hướng toàn bài?",Thông hiểu
+Lớp 9,Bài 8,VD01,"Em hãy thực hành khởi động phần mềm trình chiếu, tạo trang tiêu đề và trang dàn ý theo Hình 8.5, sau đó thêm sơ đồ dòng thời gian về các thế hệ máy tính.",Vận dụng
+Lớp 9,Bài 9a,CH01,Trang tính Thu nhập trong Hình 9a.6 lưu dữ liệu về các khoản thu của gia đình. Em hãy quan sát Hình 9a.6 và cho biết dữ liệu ở cột B cần được thiết lập để thoả mãn điều kiện xác thực nào.,Vận dụng
+Lớp 9,Bài 10a,CH01,"Trong hàm COUNTIF(range, criteria), tham số 'range' có ý nghĩa gì?",Nhận biết
+Lớp 9,Bài 10a,CH02,"Để đếm số lượng các ô trong vùng từ A1 đến A5 có giá trị lớn hơn hoặc bằng 50, em sử dụng công thức nào sau đây?",Thông hiểu
+Lớp 9,Bài 10,LT1,"Em hãy bổ sung thêm một số dòng dữ liệu thu, chi vào cả hai trang tính Thu nhập và Chi tiêu. Hãy điều chỉnh công thức COUNTIF ở cột G để kết quả tổng hợp số lần thu, chi của mỗi khoản được chính xác.",Vận dụng
+Lớp 9,Bài 10,LT2,Em hãy thực hiện cuộc khảo sát về việc chọn trường THPT của các bạn trong lớp. Nhập thông tin mà em thu thập được vào bảng tính và sử dụng hàm COUNTIF để tổng hợp kết quả khảo sát như minh hoạ ở Hình 10a.6.,Vận dụng
+Lớp 9,Bài 10,VD1,"Em hãy mở bảng tính KinhPhiTrienLam.xlsx đã tạo ở phần Vận dụng, Bài 9a và sử dụng hàm COUNTIF để tính số lần thu của mỗi khoản thu, số lần chi của mỗi khoản chi của dự án Triển lãm tin học. Lưu tệp sau khi hoàn thành công việc.",Vận dụng
+Lớp 9,Bài 11a,CH01,Hình 11a.3 minh họa dữ liệu của trang tính Thu nhập. Em hãy cho biết công thức cần nhập vào ô H2 là gì? Giá trị của ô H2 có ý nghĩa gì?,Vận dụng
+Lớp 9,Bài 11a,LT1,"Em hãy bổ sung thêm một số dòng dữ liệu thu, chi vào cuối phần dữ liệu của cả hai trang tính Thu nhập và Chi tiêu. Hãy điều chỉnh công thức SUMIF ở cột H để kết quả tổng tiền của mỗi khoản thu, chi được chính xác.",Vận dụng
+Lớp 9,Bài 11a,VD1,"Em hãy mở bảng tính KinhPhiTrienLam.xlsx đã lưu ở phần Vận dụng, Bài 10a và sử dụng hàm SUMIF để tính tổng các khoản thu, chi của dự án Triển lãm tin học. Lưu tệp sau khi hoàn thành công việc.",Vận dụng
+Lớp 9,Bài 12a,HĐ1,"1. Em hãy nêu công thức ở các ô của cột M và cột N trong bảng dữ liệu Hình 12a.3.
+2. Em hãy viết quy tắc để đưa ra nhận xét tình trạng chi tiêu như minh hoạ ở cột O trong Hình 12a.3 dựa trên quy tắc quản lí tài chính 50-30-20.",Vận dụng
+Lớp 9,Bài 12,VD1,Em hãy viết công thức trong các ô O4 và O5 ở Hình 12a.3 để nhận xét về tình trạng của mục Mong muốn cá nhân và Tiết kiệm dựa trên quy tắc 50-30-20.,Vận dụng
+Lớp 9,Bài 13a,CH01,"Trong dự án quản lí tài chính gia đình, trang tính Tổng hợp có vai trò gì?",Thông hiểu
+Lớp 9,Bài 9b,CH01,Phần mềm làm video là gì?,Thông hiểu
+Lớp 9,Bài 9,CH01,"Chọn phương án ghép sai:
+Video Editor là phần mềm làm video
+A. có giao diện thân thiện, dễ sử dụng.
+B. hỗ trợ nhiều định tệp.
+C. được tích hợp sẵn trong tất cả các hệ điều hành.
+D. có đầy đủ những chức năng làm video cơ bản và nâng cao.",Thông hiểu
+Lớp 9,Bài 9b,LT1,Em hãy nêu các chức năng chính của phần mềm làm video.,Thông hiểu
+Lớp 9,Bài 9b,LT2,"Em hãy thu thập các tệp video, hình ảnh, tài liệu về các sản phẩm em đã làm được trong quá trình thực hiện các dự án (ví dụ Sổ lưu niệm, Trường học xanh, Thành lập CLB Tin học) khi học môn Tin học. Lưu các tệp vào một thư mục trong máy tính và thực hiện: a) Khởi động phần mềm Video Editor, mở dự án làm video SanPhamTinHoc. b) Nhập các tệp dữ liệu em đã thu thập vào thư viện dữ liệu. c) Đưa dữ liệu vào bàn dựng. d) Dùng các nút điều khiển ở màn hình xem trước để xem video. e) Xoá bỏ lần lượt từng dữ liệu khỏi bàn dựng, quan sát xem dữ liệu trong thư viện có bị mất không. f) Xoá bỏ lần lượt từng dữ liệu khỏi thư viện.",Vận dụng
+Lớp 9,Bài 9b,VD1,"Em hãy làm video để giới thiệu về một vấn đề mà em quan tâm, ví dụ một cuốn sách, một môn học, một địa danh ở địa phương,... Bắt đầu bằng việc thực hiện các công việc sau đây: a) Dùng máy quay phim, điện thoại thông minh,... quay video, chụp ảnh; tìm kiếm các thông tin liên quan đến vấn đề em muốn giới thiệu. Lưu các tệp dữ liệu em thu thập được vào một thư mục trong máy tính có tên là DuLieuMyVideo. b) Sử dụng phần mềm Video Editor tạo một dự án làm video mới có tên MyVideo.",Vận dụng
+Lớp 9,Bài 10b,CH01,"Em hãy sắp xếp lại các bước tạo video sau đây theo đúng thứ tự: a) Nhập dữ liệu, dựng video. b) Chuẩn bị dữ liệu. c) Lên ý tưởng, xây dựng kịch bản. d) Xuất video. e) Biên tập video.",Thông hiểu
+Lớp 9,Bài 10b,LT1,"Em hãy tạo đoạn hoạt hình dài 3 giây từ những hình ảnh chụp tờ rơi, tài liệu của dự án Thành lập CLB Tin học.",Vận dụng
+Lớp 9,Bài 10b,LT2,Em hãy thêm hiệu ứng chuyển động vào ảnh đầu của đoạn hoạt hình đã tạo ở câu 1.,Vận dụng
+Lớp 9,Bài 10b,VD1,"Em hãy thực hiện các nhiệm vụ tương tự trong phần Thực hành với dự án MyVideo (em đã tạo ở phần Vận dụng, Bài 9b) với các dữ liệu đã thu thập được lưu trong thư mục DuLieuMyVideo.",Vận dụng
+Lớp 9,Bài 12b,CH01,Em hãy chọn phương án sai.,Thông hiểu
+Lớp 9,Bài 13,CH01,"Em hãy chọn những công việc cần làm trong bước biên tập video:
+a) Thu thập dữ liệu.
+b) Kiểm tra nội dung video xem có đúng theo kịch bản không.
+c) Nhập dữ liệu.
+d) Kiểm tra phụ đề, âm thanh xem có khớp với hình ảnh không.
+e) Kiểm tra xem đã đủ dữ liệu chưa.",Thông hiểu
+Lớp 9,Bài 13b,LT1,"Em hãy xem lại toàn bộ video trong màn hình xem trước và thực hiện các công việc: a) Nếu thấy ảnh nào trong video còn thanh màu đen thì loại bỏ. b) Điều chỉnh lại thời gian hiển thị các dữ liệu nếu thấy cần thiết. c) Xuất lại video với tên SanPhamTinHoc-Version2.mp4. d) Xem lại hai video kết quả ở hai tệp SanPhamTinHoc.mp4 và SanPhamTinHoc-Version2.mp4, so sánh và chọn một bản phù hợp để trình chiếu trong buổi Triển lãm tin học.",Vận dụng
+Lớp 9,Bài 13b,VD1,Em hãy thực hiện các nhiệm vụ tương tự trong phần Thực hành với dự án MyVideo.,Vận dụng
+Lớp 9,Bài 14,CH01,Em hãy trình bày các bước giải quyết vấn đề chọn trường sau khi tốt nghiệp THCS dưới dạng liệt kê các bước hoặc sơ đồ khối.,Vận dụng
+Lớp 9,Bài 14,CH02,"Trong Hoạt động 1, để tìm đường thoát khỏi mê cung không có bản đồ, robot đã dựa vào yếu tố nào để quyết định hướng đi?",Thông hiểu
+Lớp 9,Bài 14,LT1,Em hãy mô tả thuật toán bám tường bên trái để tìm đường thoát khỏi mê cung.,Thông hiểu
+Lớp 9,Bài 14,VD1,Em hãy lập chương trình trong ngôn ngữ Scratch mô phỏng thuật toán bám tường.,Vận dụng
+Lớp 9,Bài 15,LT1,Vẽ sơ đồ của thuật toán giải bài toán xác định một số có phải số nguyên tố hay không bằng cách chỉ sử dụng những cấu trúc điều khiển cơ bản.,Vận dụng
+Lớp 9,Bài 15,CH01,Một bài toán tin học được xác định bởi những yếu tố nào?,Nhận biết
+Lớp 9,Bài 15,CH02,Tại sao giá trị khởi đầu của biến max lại được gán bằng 0 trong bài toán tìm số lớn nhất từ dãy số nguyên dương?,Vận dụng
+Lớp 9,Bài 15,VD1,"Hãy mô tả đầu vào, đầu ra của bài toán sắp xếp một dãy số theo thứ tự tăng dần.",Thông hiểu
+Lớp 9,Bài 15,VD2,Vẽ sơ đồ khối của giải thuật sắp xếp nổi bọt để sắp xếp một dãy số theo thứ tự tăng dần.,Vận dụng
+Lớp 9,Bài 17,CH01,"Ba người bạn An, Minh, Khoa trong phần khởi động có thể làm những nghề nghiệp gì trong lĩnh vực tin học?",Thông hiểu
+Lớp 9,Bài 17,CH02,Đặc thù công việc và sản phẩm chính của những nghề nghiệp đó là gì?,Thông hiểu
+Lớp 9,Bài học (Tiếp theo),CH01,Em hãy chọn phát biểu đúng.,Thông hiểu
+Lớp 9,Bài học (Tiếp theo),LT01,"Hãy kể tên hai công việc liên quan đến nghề nghiệp tin học trong lĩnh vực khác như y tế, giáo dục, nông nghiệp, xây dựng, giao thông,...",Vận dụng
+Lớp 9,Bài học (Tiếp theo),LT02,"Em hãy nêu ví dụ về một nghề tin học mà theo em, lao động nữ có ưu thế. Giải thích cho câu trả lời của mình.",Vận dụng
+Lớp 9,Bài học (Tiếp theo),VD01,Hãy kể về một nghề tin học mà em quan tâm. Nghề nghiệp đó theo định hướng Khoa học máy tính hay Tin học ứng dụng?,Vận dụng
+Lớp 9,Bài học (Tiếp theo),VD02,Em cần bổ sung những kiến thức hay kĩ năng nào để có thể trở thành người lao động trong nghề nghiệp mà em quan tâm ở câu 1?,Vận dụng

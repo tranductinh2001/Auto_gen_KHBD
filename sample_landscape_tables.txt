@@ -1,0 +1,12 @@
+=== TABLE 0 (rows=1, cols=3) ===
+tblW: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w': '8342', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type': 'pct'}
+tblGrid (3 cols, sum=26201 dxa = 18.20 in): ['5182', '10512', '10507']
+
+=== TABLE 1 (rows=10, cols=16) ===
+tblW: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w': '0', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type': 'auto'}
+tblGrid (16 cols, sum=15692 dxa = 10.90 in): ['521', '1331', '1906', '1289', '1289', '817', '956', '956', '966', '836', '954', '964', '678', '820', '686', '723']
+
+=== TABLE 2 (rows=10, cols=13) ===
+tblW: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w': '15035', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type': 'dxa'}
+tblGrid (13 cols, sum=15035 dxa = 10.44 in): ['521', '1473', '2268', '3118', '851', '851', '851', '851', '851', '851', '851', '851', '847']
+

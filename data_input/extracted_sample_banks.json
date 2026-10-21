@@ -1,0 +1,1161 @@
+{
+  "Lớp 9": {
+    "grade": "Lớp 9",
+    "p1_mcq": [
+      {
+        "num": 1,
+        "text": "Máy tính là công cụ giúp con người thực hiện:",
+        "options": [
+          "Ghi chép thông tin                     B. Lưu trữ, xử lý và trao đổi thông tin",
+          "Vẽ tranh                                     D. Giải trí"
+        ]
+      },
+      {
+        "num": 2,
+        "text": "Thiết bị nào sau đây thuộc phần cứng máy tính?",
+        "options": [
+          "Hệ điều hành                             B. Phần mền soạn thảo văn bản",
+          "Chuột máy tính                          D. Phần mềm trình duyệt Web"
+        ]
+      },
+      {
+        "num": 3,
+        "text": "Trong môi trường số, việc kiểm chứng thông tin có nghĩa là:",
+        "options": [
+          "Đọc tin tức thật nhanh",
+          "Kiểm tra độ chính xác, nguồn gốc thông tin",
+          "Chia sẻ ngay để mọi người biết",
+          "Bình luận công khai"
+        ]
+      },
+      {
+        "num": 4,
+        "text": "Phần mềm trình chiếu là:",
+        "options": [
+          "Word    B. Panint      C. PowerPoint                 D. Scarth"
+        ]
+      },
+      {
+        "num": 5,
+        "text": "Trong môi trường số, thông tin nào dưới đây cần bảo mật?",
+        "options": [
+          "Tên người dùng   B. Biển số xe     C. Căn cước công dân               D. Biệt danh"
+        ]
+      },
+      {
+        "num": 6,
+        "text": "Chức năng chính của hệ điều hành là:",
+        "options": [
+          "Giúp máy tính hoạt động, quản lý tài nguyên",
+          "Gửi thư điện tử",
+          "Chơi trò chơi",
+          "✂……………………………………………………………………………………………",
+          "Truy cập trình duyệt Web"
+        ]
+      },
+      {
+        "num": 7,
+        "text": "Khi tìm kiếm thông tin, nên chọn nguồn:",
+        "options": [
+          "Không rõ tác giả                              B. Có uy tín và được kiểm chứng",
+          "Theo tin đồn                                    D. Theo cảm tính"
+        ]
+      },
+      {
+        "num": 8,
+        "text": "Khi chia sẻ bài viết của người khác, em cần:",
+        "options": [
+          "Ghi rõ nguồn chia sẻ, tên tác giả",
+          "Không cần trích dẫn",
+          "Xóa tên tác giả",
+          "Tùy ý sửa nội dung và viết tên mình"
+        ]
+      },
+      {
+        "num": 9,
+        "text": "Đánh giá chất lượng thông tin giúp:",
+        "options": [
+          "Tiết kiệm thời gian học",
+          "Tránh đọc tin",
+          "Giảm tốc độ mạng",
+          "Sử dụng thông tin chính xác, đáng tin cậy"
+        ]
+      },
+      {
+        "num": 10,
+        "text": "Đạo đức số thể hiện qua:",
+        "options": [
+          "Thích nói gì cũng được",
+          "Giao tiếp lịch sự, tôn trọng người khác trên mạng",
+          "Công kích, nói xấu người khác",
+          "Chai sẻ thông tin sai lệch, không chuẩn mực."
+        ]
+      },
+      {
+        "num": 11,
+        "text": "Văn hoá trong môi trường số KHÔNG bao gồm:",
+        "options": [
+          "Tuân thủ pháp luật mạng                          B. Dùng ngôn ngữ lịch sự",
+          "Vi phạm bản quyền                                   D. Tôn trọng người khác"
+        ]
+      },
+      {
+        "num": 1,
+        "text": "Máy tính là công cụ giúp con người thực hiện:",
+        "options": [
+          "Ghi chép thông tin                     B. Lưu trữ, xử lý và trao đổi thông tin",
+          "Vẽ tranh                                     D. Giải trí"
+        ]
+      },
+      {
+        "num": 2,
+        "text": "Thiết bị nào sau đây thuộc phần cứng máy tính?",
+        "options": [
+          "Hệ điều hành                             B. Phần mền soạn thảo văn bản",
+          "Chuột máy tính                          D. Phần mềm trình duyệt Web"
+        ]
+      },
+      {
+        "num": 3,
+        "text": "Trong môi trường số, việc kiểm chứng thông tin có nghĩa là:",
+        "options": [
+          "Đọc tin tức thật nhanh",
+          "Kiểm tra độ chính xác, nguồn gốc thông tin",
+          "Chia sẻ ngay để mọi người biết",
+          "Bình luận công khai"
+        ]
+      },
+      {
+        "num": 4,
+        "text": "Phần mềm trình chiếu là:",
+        "options": [
+          "Word    B. Panint      C. PowerPoint                 D. Scarth"
+        ]
+      },
+      {
+        "num": 5,
+        "text": "Trong môi trường số, thông tin nào dưới đây cần bảo mật?",
+        "options": [
+          "Tên người dùng   B. Biển số xe     C. Căn cước công dân               D. Biệt danh"
+        ]
+      },
+      {
+        "num": 6,
+        "text": "Chức năng chính của hệ điều hành là:",
+        "options": [
+          "Giúp máy tính hoạt động, quản lý tài nguyên",
+          "Gửi thư điện tử",
+          "Chơi trò chơi",
+          "Truy cập trình duyệt Web"
+        ]
+      },
+      {
+        "num": 7,
+        "text": "Khi tìm kiếm thông tin, nên chọn nguồn:",
+        "options": [
+          "Không rõ tác giả                              B. Có uy tín và được kiểm chứng",
+          "Theo tin đồn                                    D. Theo cảm tính"
+        ]
+      },
+      {
+        "num": 8,
+        "text": "Khi chia sẻ bài viết của người khác, em cần:",
+        "options": [
+          "Ghi rõ nguồn chia sẻ, tên tác giả",
+          "Không cần trích dẫn",
+          "Xóa tên tác giả",
+          "Tùy ý sửa nội dung và viết tên mình"
+        ]
+      },
+      {
+        "num": 9,
+        "text": "Đánh giá chất lượng thông tin giúp:",
+        "options": [
+          "Tiết kiệm thời gian học",
+          "Tránh đọc tin",
+          "Giảm tốc độ mạng",
+          "Sử dụng thông tin chính xác, đáng tin cậy"
+        ]
+      },
+      {
+        "num": 10,
+        "text": "Đạo đức số thể hiện qua:",
+        "options": [
+          "Thích nói gì cũng được",
+          "Giao tiếp lịch sự, tôn trọng người khác trên mạng",
+          "Công kích, nói xấu người khác",
+          "Chai sẻ thông tin sai lệch, không chuẩn mực."
+        ]
+      },
+      {
+        "num": 11,
+        "text": "Văn hoá trong môi trường số KHÔNG bao gồm:",
+        "options": [
+          "Tuân thủ pháp luật mạng                          B. Dùng ngôn ngữ lịch sự",
+          "Vi phạm bản quyền                                   D. Tôn trọng người khác"
+        ]
+      }
+    ],
+    "p2_tf": [
+      {
+        "type": "TF",
+        "num": 1,
+        "text": "“Máy tính là thiết bị có thể lưu trữ, xử lý và trao đổi thông tin.” Hãy cho biết các phát biểu sau đúng hay sai?",
+        "items": [
+          "Máy tính chỉ để dùng để chơi trò chơi.",
+          "Máy tính không thể lưu trữ thông tin",
+          "Máy tính có thể xử lý thông tin",
+          "Máy tính có thể trao đổi thông tin qua mạng"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 2,
+        "text": "“Thông tin trên Internet luôn chính xác và không cần kiểm chứng.” Hãy cho biết các phát biểu sau đúng hay sai?",
+        "items": [
+          "Mọi thông tin trên mạng đều đúng.",
+          "Cần kiểm tra nguồn thông tin trước khi tiếp nhận.",
+          "Không nên chia sẻ các trang không rõ nguồn gốc.",
+          "Nên tin vào các trang chính thống."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 3,
+        "text": "“Đánh giá chất lượng thông tin là quá trình xem xét độ chính xác và độ tin cậy của thông tin.” Hãy cho biết các phát biểu sau đúng hay sai?",
+        "items": [
+          "Làm giúp ta chọn lọc thông tin đáng tin cậy.",
+          "Không cần thiết khi tra cứu.",
+          "Giúp người xem tránh được tin giả.",
+          "Làm tốn thời gian."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 4,
+        "text": "“Công dân số có trách nhiệm biết tôn trọng, bảo vệ thông tin cá nhân và ứng xử văn minh.” Hãy cho biết các phát biểu sau đúng hay sai?",
+        "items": [
+          "Không chia sẻ thông tin sai sự thật.",
+          "Dùng mật khẩu mạnh, bảo vệ tài khoản.",
+          "Công kích, nói xấu người khác trên mạng.",
+          "Tôn trọng người khác khi giao tiếp.",
+          "✂……………………………………………………………………………………………"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 17,
+        "text": "(1,0 điểm) Trình bày vai trò của thông tin trong đời sống và học tập?",
+        "items": []
+      },
+      {
+        "type": "TF",
+        "num": 18,
+        "text": "(1,0 điểm) Nêu hai ví dụ thể hiện hành vi đạo đức trong môi trường số.",
+        "items": []
+      },
+      {
+        "type": "TF",
+        "num": 1,
+        "text": "“Thiết bị thông minh là thiết bị có khả năng kết nối mạng và thực hiện các tác vụ tự động.”",
+        "items": [
+          "a) Thiết bị thông minh có thể điều khiển từ xa qua Internet.",
+          "b) Thiết bị thông minh không thể kết nối mạng.",
+          "c) Điện thoại thông minh là một ví dụ về thiết bị thông minh.",
+          "d) Thiết bị thông minh chỉ dùng để nghe gọi."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 2,
+        "text": "“Mạng xã hội là nơi người dùng chia sẻ, tương tác và kết nối với nhau qua Internet.”",
+        "items": []
+      },
+      {
+        "type": "TF",
+        "num": 3,
+        "text": "“An toàn thông tin giúp người dùng bảo vệ dữ liệu và tài khoản cá nhân.”",
+        "items": [
+          "a) Không nên chia sẻ mật khẩu cho người khác.",
+          "b) Có thể mở bất kỳ liên kết nào được gửi đến.",
+          "c) Cần đặt mật khẩu mạnh và thay đổi định kỳ.",
+          "d) Không cần kiểm tra nguồn khi tải tệp về máy."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 4,
+        "text": "“Ứng dụng học tập trực tuyến hỗ trợ người học tiếp cận kiến thức mọi lúc, mọi nơi.”",
+        "items": [
+          "a) Học trực tuyến giúp tiết kiệm thời gian và chi phí đi lại.\nb) Không thể giao tiếp với giáo viên khi học trực tuyến.\nc) Cần có thiết bị và kết nối Internet để học trực tuyến.\nd) Học trực tuyến giúp người học chủ động sắp xếp thời gian.",
+          "✂……………………………………………………………………………………………"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 17,
+        "text": "(1,0 điểm) Em hãy cho biết vì sao thông tin lại quan trọng đối với con người trong học tập và lao động?",
+        "items": []
+      },
+      {
+        "type": "TF",
+        "num": 18,
+        "text": "(1,0 điểm) Nêu hai ví dụ thể hiện hành vi đạo đức trong môi trường số.",
+        "items": []
+      },
+      {
+        "type": "TF",
+        "num": 19,
+        "text": "(1,0 điểm) Công dân có trách nhiệm được thể hiện ở những hành vi nào?",
+        "items": [
+          "(nêu 4 hành vi).",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          ".........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "✂……………………………………………………………………………………………",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          ".........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          ".........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "A. Phần trắc nghiệm: (7 điểm)"
+        ]
+      }
+    ],
+    "p3_essay": [],
+    "answers": {
+      "p1": {
+        "1": "C",
+        "2": "D",
+        "3": "B",
+        "4": "C",
+        "5": "C",
+        "6": "D",
+        "7": "C",
+        "8": "D",
+        "9": "B",
+        "10": "C",
+        "11": "C",
+        "12": "A"
+      },
+      "p2": {
+        "1": {
+          "A": "Đ",
+          "B": "S",
+          "C": "Đ",
+          "D": "S"
+        },
+        "2": {
+          "A": "S",
+          "B": "Đ",
+          "C": "S",
+          "D": "Đ"
+        },
+        "3": {
+          "A": "Đ",
+          "B": "S",
+          "C": "Đ",
+          "D": "S"
+        },
+        "4": {
+          "A": "Đ",
+          "B": "S",
+          "C": "Đ",
+          "D": "Đ"
+        }
+      },
+      "p3": [
+        {
+          "cau": "17\n(1,0đ)",
+          "noi_dung": "Thông tin có vai trò rất quan trọng trong đời sống và học tập:\n- Giúp con người hiểu biết thế giới xung quanh, ra quyết định đúng đắn.\n- Giúp việc học tập hiệu quả hơn, tra cứu tài liệu dễ dàng.\n- Là cơ sở cho giao tiếp, hợp tác và sáng tạo trong học tập, công việc.",
+          "diem": "0,25\n0,25\n\n0,25\n\n0,25"
+        },
+        {
+          "cau": "18\n(1,0đ)",
+          "noi_dung": "Hai ví dụ thể hiện hành vi đạo đức trong môi trường số:\n- Không bình luận, chia sẻ thông tin sai sự thật.\n- Không xâm nhập, phá hoại tài khoản hoặc dữ liệu của người khác.",
+          "diem": "0,5\n0,5"
+        },
+        {
+          "cau": "19\n(1,0đ)",
+          "noi_dung": "Bốn hành vi thể hiện công dân số có trách nhiệm:\n- Không chia sẻ thông tin sai sự thật; kiểm chứng thông tin trước khi đăng.\n- Bảo vệ thông tin cá nhân, sử dụng mật khẩu mạnh.\n- Tôn trọng người khác khi giao tiếp trực tuyến.\n- Báo cáo hoặc ngăn chặn các nội dung độc hại, vi phạm pháp luật trên mạng.",
+          "diem": "0,25\n\n0,25\n0,25\n\n0,25"
+        },
+        {
+          "cau": "17\n(1,0đ)",
+          "noi_dung": "Thông tin có vai trò rất quan trọng trong đời sống và học tập:\n- Giúp con người hiểu biết thế giới xung quanh, ra quyết định đúng đắn.\n- Giúp việc học tập hiệu quả hơn, tra cứu tài liệu dễ dàng.\n- Là cơ sở cho giao tiếp, hợp tác và sáng tạo trong học tập, công việc.",
+          "diem": "0,25\n0,25\n\n0,25\n\n0,25"
+        },
+        {
+          "cau": "18\n(1,0đ)",
+          "noi_dung": "Hai ví dụ thể hiện hành vi đạo đức trong môi trường số:\n- Không bình luận, chia sẻ thông tin sai sự thật.\n- Không xâm nhập, phá hoại tài khoản hoặc dữ liệu của người khác.",
+          "diem": "0,5\n0,5"
+        },
+        {
+          "cau": "19\n(1,0đ)",
+          "noi_dung": "Bốn hành vi thể hiện công dân số có trách nhiệm:\n- Không chia sẻ thông tin sai sự thật; kiểm chứng thông tin trước khi đăng.\n- Bảo vệ thông tin cá nhân, sử dụng mật khẩu mạnh.\n- Tôn trọng người khác khi giao tiếp trực tuyến.\n- Báo cáo hoặc ngăn chặn các nội dung độc hại, vi phạm pháp luật trên mạng.",
+          "diem": "0,25\n\n0,25\n0,25\n\n0,25"
+        }
+      ]
+    }
+  },
+  "Lớp 7": {
+    "grade": "Lớp 7",
+    "p1_mcq": [
+      {
+        "num": 1,
+        "text": "Thiết bị vào có chức năng gì trong các phương án sau đây?",
+        "options": [
+          "A. Đưa thông tin ra ngoài.                                        B. Hiển thị nội dung lên màn hình.",
+          "C. Chuyển thông tin thành dữ liệu.                           D. Đưa thông tin vào máy tính."
+        ]
+      },
+      {
+        "num": 2,
+        "text": "Thiết bị nào sau đây vừa đưa thông tin vào, vừa đưa thông tin ra?",
+        "options": [
+          "A. Màn hình cảm ứng.                                              B. Loa bluetooth.",
+          "C. Màn hình led.\t                                                       D. Bàn phím không dây."
+        ]
+      },
+      {
+        "num": 3,
+        "text": "Việc nào dưới đây KHÔNG nên làm khi sử dụng máy tính?",
+        "options": [
+          "A. Đọc kĩ hướng dẫn trước khi sử dụng thiết bị.",
+          "B. Giữ tay khô, sạch khi sử dụng máy tính.",
+          "C. Để máy tính nơi có ánh nắng chiếu vào.",
+          "D. Gõ phím dứt khoát nhưng nhẹ nhàng."
+        ]
+      },
+      {
+        "num": 4,
+        "text": "Tệp có phần mở rộng .exe thuộc loại tệp gì sau đây?",
+        "options": [
+          "A. Không có loại tệp này.                                           B. Tệp chương trình máy tính.",
+          "C. Tệp dữ liệu của chương trình Microsoft Word.     D. Tệp dữ liệu Video."
+        ]
+      },
+      {
+        "num": 5,
+        "text": "Trong các tên phần mềm ứng dụng dưới đây, phần mềm ứng dụng nào có chức năng giúp người dùng để vẽ hình?",
+        "options": [
+          "A. Scratch.                                                                   B. Microsoft Excel\t.",
+          "C. Microsoft  Word.\t\t                                   D. Paint."
+        ]
+      },
+      {
+        "num": 6,
+        "text": "Phần mềm ứng dụng dưới đây, phần mềm nào để học tiếng Anh?",
+        "options": [
+          "A. Typing Master.\t                                              B. Zalo.",
+          "C. Duolingo.\t                                                         D. Google Chrome."
+        ]
+      },
+      {
+        "num": 7,
+        "text": "Cách đặt mật khẩu cho tài khoản nào dưới đây được xem là mật khẩu mạnh?",
+        "options": [
+          "A. Lx@897#\t\t                                              B. Mk897",
+          "C. @12345\t\t                                              D. 1526MK76"
+        ]
+      },
+      {
+        "num": 8,
+        "text": "Em hãy cho biết phần mềm nào sau đây quan trọng nhất?",
+        "options": [
+          "A. Lập trình trực quan Scratch.                                   B. Soạn thảo văn bản.",
+          "C. Phần mềm vẽ hình.                                                 D. Hệ điều hành."
+        ]
+      },
+      {
+        "num": 9,
+        "text": "Dựa vào phần mở rộng của các tệp tin dưới đây, em hãy chỉ ra đâu là tệp video?",
+        "options": [
+          "A. Than dong.docx\t\t                                   B. Hat giong tam hon.mp4",
+          "C. Em muon lam ca si.mp3                                         D. LingDeer.exe"
+        ]
+      },
+      {
+        "num": 10,
+        "text": "Trong các địa chỉ website sau đây, địa chỉ nào là địa chỉ website mạng xã hội?",
+        "options": [
+          "A. vnedu.vn\t                                                         B. vietnamnet.vn",
+          "C. youtube.com                                                           D. google.com.vn"
+        ]
+      },
+      {
+        "num": 11,
+        "text": "Mạng xã hội KHÔNG có chức năng nào sau đây?",
+        "options": [
+          "A. Chia sẻ hình ảnh.                                                    B. Gặp mặt trực tiếp.",
+          "C. Chia sẻ bài viết.                                                      D. Trò chuyện trực tuyến."
+        ]
+      },
+      {
+        "num": 1,
+        "text": "Thiết bị vào có chức năng gì trong các phương án sau đây?",
+        "options": [
+          "A. Đưa thông tin ra ngoài.                                        B. Hiển thị nội dung lên màn hình.",
+          "C. Chuyển thông tin thành dữ liệu.                           D. Đưa thông tin vào máy tính."
+        ]
+      },
+      {
+        "num": 2,
+        "text": "Thiết bị nào sau đây vừa đưa thông tin vào, vừa đưa thông tin ra?",
+        "options": [
+          "A. Màn hình cảm ứng.                                              B. Loa bluetooth.",
+          "C. Màn hình led.\t                                                       D. Bàn phím không dây."
+        ]
+      },
+      {
+        "num": 3,
+        "text": "Việc nào dưới đây KHÔNG nên làm khi sử dụng máy tính?",
+        "options": [
+          "A. Đọc kĩ hướng dẫn trước khi sử dụng thiết bị.",
+          "B. Giữ tay khô, sạch khi sử dụng máy tính.",
+          "C. Để máy tính nơi có ánh nắng chiếu vào.",
+          "D. Gõ phím dứt khoát nhưng nhẹ nhàng."
+        ]
+      },
+      {
+        "num": 4,
+        "text": "Tệp có phần mở rộng .exe thuộc loại tệp gì sau đây?",
+        "options": [
+          "A. Không có loại tệp này.                                           B. Tệp chương trình máy tính.",
+          "C. Tệp dữ liệu của chương trình Microsoft Word.     D. Tệp dữ liệu Video."
+        ]
+      },
+      {
+        "num": 5,
+        "text": "Trong các tên phần mềm ứng dụng dưới đây, phần mềm ứng dụng nào có chức năng giúp người dùng để vẽ hình?",
+        "options": [
+          "A. Scratch.                                                                   B. Microsoft Excel\t.",
+          "C. Microsoft  Word.\t\t                                   D. Paint."
+        ]
+      },
+      {
+        "num": 6,
+        "text": "Phần mềm ứng dụng dưới đây, phần mềm nào để học tiếng Anh?",
+        "options": [
+          "A. Typing Master.\t                                              B. Zalo.",
+          "C. Duolingo.\t                                                         D. Google Chrome."
+        ]
+      },
+      {
+        "num": 7,
+        "text": "Cách đặt mật khẩu cho tài khoản nào dưới đây được xem là mật khẩu mạnh?",
+        "options": [
+          "A. Lx@897#\t\t                                              B. Mk897",
+          "C. @12345\t\t                                              D. 1526MK76"
+        ]
+      },
+      {
+        "num": 8,
+        "text": "Em hãy cho biết phần mềm nào sau đây quan trọng nhất?",
+        "options": [
+          "A. Lập trình trực quan Scratch.                                   B. Soạn thảo văn bản.",
+          "C. Phần mềm vẽ hình.                                                 D. Hệ điều hành."
+        ]
+      },
+      {
+        "num": 9,
+        "text": "Dựa vào phần mở rộng của các tệp tin dưới đây, em hãy chỉ ra đâu là tệp video?",
+        "options": [
+          "A. Than dong.docx\t\t                                   B. Hat giong tam hon.mp4",
+          "C. Em muon lam ca si.mp3                                         D. LingDeer.exe"
+        ]
+      },
+      {
+        "num": 10,
+        "text": "Trong các địa chỉ website sau đây, địa chỉ nào là địa chỉ website mạng xã hội?",
+        "options": [
+          "A. vnedu.vn\t                                                         B. vietnamnet.vn",
+          "C. youtube.com                                                           D. google.com.vn"
+        ]
+      },
+      {
+        "num": 11,
+        "text": "Mạng xã hội KHÔNG có chức năng nào sau đây?",
+        "options": [
+          "A. Chia sẻ hình ảnh.                                                    B. Gặp mặt trực tiếp.",
+          "C. Chia sẻ bài viết.                                                      D. Trò chuyện trực tuyến."
+        ]
+      }
+    ],
+    "p2_tf": [
+      {
+        "type": "TF",
+        "num": 1,
+        "text": "Hãy tưởng tượng bạn vừa tải về nhiều loại tài liệu học tập khác nhau, bao gồm bài tập Toán, bài giảng lý thuyết Hóa học, và hình ảnh minh họa cho môn Lịch sử. Một số cách làm sau để em sắp xếp và lưu trữ các tài liệu này một cách khoa học để dễ tìm kiếm sau này:",
+        "items": [
+          "a) Giữ nguyên tên cũng như vị trí lưu trữ mặc định khi các tài liệu được tải xuống.",
+          "b) Đặt tên tài liệu này sao cho dễ nhớ và dễ tìm kiếm, ví dụ: “chiendichDienBienPhu.jpg”.",
+          "c) Hệ thống tự động sắp xếp các tài liệu tải xuống một cách khoa học và dễ tìm kiếm.",
+          "d) Tạo các thư mục con như \"Toán\", \"Hóa học\", \"Lịch sử\". Lưu các tài liệu tương ứng vào đúng thư mục đã tạo."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 2,
+        "text": "Để giới thiệu các bạn hoặc một người thân tham gia mạng xã hội. Là bản thân em đã được trao dồi kiến thức tham gia mạng xã hội, em nên:",
+        "items": [
+          "a) Hướng dẫn cách tạo và sử dụng hộp thư điện tử Gmail.",
+          "b) Giới thiệu các diễn đàn học tập, thảo luận, là nơi mọi người có thể cùng nhau chia sẻ kiến thức về một chủ đề nào đó.",
+          "c) Tùy theo mục đích sử dụng mà em giới thiệu và cung cấp những kênh mạng xã hội phù hợp.",
+          "d) Khi giới thiệu, em nên đề cập đến các thông tin: Chức năng chính, đối tượng phù hợp để tham gia, cách thức tham gia, những lưu ý cần thiết khi tham gia,… về một mạng xã hội (Zalo, Facebook,…)."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 3,
+        "text": "Sau khi cô giáo giới thiệu “Mạng xã hội là một nền tảng kỹ thuật số cho phép mọi người tương tác, chia sẻ, tạo và trao đổi thông tin, nội dung, ý tưởng và nhiều hình thức giao tiếp khác nhau. Nó là một môi trường ảo nơi mọi người có thể kết nối với nhau, dù ở bất cứ đâu trên thế giới”. Các bạn đưa ra một số ý kiến như sau:",
+        "items": [
+          "a) Tùy theo mục đích sử dụng, các trang mạng xã hội cung cấp những cách thức giao tiếp khác nhau, như: nhắn tin riêng tư, đưa ra nhận xét trên trang của bạn bè, đăng ảnh và video lên, thảo luận học tập, trò chơi trực tuyến.",
+          "b) Không cần chia sẻ về hậu quả của việc sử dụng thông tin vào mục đích sai trái, với người thân và bạn bè để cùng phòng tránh vì tác hại của nó mang lại không đáng kể.",
+          "c) Đưa thông tin sai sự thật lên mạng, sử dụng thông tin vào mục đích sai trái là hành vi bị nghiêm cấm và có thể bị phạt theo quy định của Pháp luật.",
+          "d) Học sinh có thể bị đình chỉ thi và bị công an điều tra, xử lý. Vì hành vi chụp ảnh đề thi, chia sẻ lên mạng xã hội, nhờ làm hộ bài thi trong quá trình thi."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 1,
+        "text": "Khi sử dụng máy tính cá nhân để học tập và làm việc, em nên thực hiện các thao tác sau để bảo đảm an toàn thông tin:",
+        "items": [
+          "a) Lưu tất cả tài liệu vào một thư mục duy nhất để dễ tìm.\nb) Sử dụng mật khẩu mạnh cho các thư mục hoặc tài khoản quan trọng.\nc) Chia sẻ mật khẩu của mình với bạn thân để nhờ truy cập khi cần.\nd) Thường xuyên sao lưu dữ liệu học tập vào ổ đĩa ngoài hoặc Google Drive."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 2,
+        "text": "Trong quá trình tham gia  xã hội, để thể hiện văn hóa ứng xử đúng đắn, em nên:",
+        "items": [
+          "a) Kiểm tra độ tin cậy của thông tin trước khi chia sẻ lại.\nb) Sử dụng ngôn từ lịch sự, tôn trọng người khác khi bình luận.\nc) Tự do đăng bất kỳ hình ảnh hay video nào em thích mà không cần xin phép.\nd) Báo cáo (report) các bài đăng có nội dung xấu, sai sự thật hoặc xúc phạm người khác. Câu 3. Khi học trực tuyến bằng Internet",
+          "Trong quá trình học trực tuyến, em cần chú ý:\na) Không nên bật camera và micro khi giáo viên yêu cầu để tránh lộ hình ảnh.\nb) Giữ thái độ nghiêm túc, tập trung học như trong lớp học trực tiếp.\nc) Ghi lại thông tin, đường link lớp học và mật khẩu để tránh quên.\nd) Gửi đường link lớp học cho bạn bè khác, dù không cùng lớp, để họ vào học thử."
+        ]
+      }
+    ],
+    "p3_essay": [
+      {
+        "type": "ESSAY",
+        "num": 1,
+        "text": "(1,0 điểm) a) Theo em, máy in thuộc nhóm thiết bị nào? b)  Máy in của em in ra những ký hiệu không mong muốn và em biết lỗi này do virus gây ra. Em cần phải diệt virus ở máy in hay máy tính? Tại sao?"
+      },
+      {
+        "type": "ESSAY",
+        "num": 2,
+        "text": "(1,0 điểm) a) Hệ điều hành và phần mềm ứng dụng có vai trò khác nhau đối với sự vận hành của máy tính như thế nào? b) Em hãy nêu một vài hệ điều hành mà em biết?"
+      },
+      {
+        "type": "ESSAY",
+        "num": 1,
+        "text": "(1,0 điểm) a) Theo em, chuột máy tính thuộc nhóm thiết bị nào?\n     b) Khi con trỏ chuột di chuyển chậm hoặc bị đơ, em cần kiểm tra phần cứng chuột hay phần mềm máy tính? Vì sao?"
+      },
+      {
+        "type": "ESSAY",
+        "num": 2,
+        "text": "(1,0 điểm) a) Hệ điều hành và phần mềm ứng dụng có vai trò khác nhau đối với sự vận hành của máy tính như thế nào? b) Em hãy nêu một vài hệ điều hành mà em biết?"
+      },
+      {
+        "type": "ESSAY",
+        "num": 3,
+        "text": "(1,0 điểm) Cho sơ đồ cây thư mục như sau: Em hãy nêu các bước thực hiện tạo cây thư mục như trên."
+      }
+    ],
+    "answers": {
+      "p1": {
+        "1": "D",
+        "2": "A",
+        "3": "C",
+        "4": "B",
+        "5": "D",
+        "6": "C",
+        "7": "A",
+        "8": "D",
+        "9": "B",
+        "10": "C",
+        "11": "B",
+        "12": "D"
+      },
+      "p2": {
+        "1": {
+          "A": "S",
+          "B": "Đ",
+          "C": "S",
+          "D": "Đ"
+        },
+        "2": {
+          "A": "Đ",
+          "B": "Đ",
+          "C": "S",
+          "D": "Đ"
+        },
+        "3": {
+          "A": "S",
+          "B": "Đ",
+          "C": "Đ",
+          "D": "S"
+        },
+        "4": {
+          "A": "Đ",
+          "B": "S",
+          "C": "S",
+          "D": "Đ"
+        }
+      },
+      "p3": [
+        {
+          "cau": "Câu 1\n(1,0 điểm)",
+          "noi_dung": "a) Chuột máy tính thuộc nhóm thiết bị nhập (input).\nb) Em cần kiểm tra phần mềm hoặc hệ thống máy tính.\nVì chuột chỉ nhận tín hiệu điều khiển, nếu hệ thống bị lỗi hoặc quá tải thì chuột có thể hoạt động không bình thường.",
+          "diem": "0,25\n 0,25\n\n0,5"
+        },
+        {
+          "cau": ".Câu 2\n(1,0 điểm)",
+          "noi_dung": "a) Hệ điều hành và phần mềm ứng dụng có vai trò khác nhau đối với sự vận hành của máy tính là:\n- Hệ điều hành là phần mềm được sử dụng để quản lý các thành phần của máy tính và điều khiển máy tính hoạt động.\n- Phần mềm ứng dụng được dùng để thực hiện yêu cầu xử lý thông tin cụ thể của người sử dụng.\nb) Một số hệ điều hành: Windows 10, Android, iOS,…",
+          "diem": "0,5\n\n0,25\n\n0,25"
+        },
+        {
+          "cau": "Câu 3\n(1,0 điểm)",
+          "noi_dung": "- Bước 1. Trên màn hình cửa sổ ổ đĩa D, nháy phải chuột, chọn New  Folder\n- Bước 2. Một thư mục mới có tên New Folder được tạo ra. Em đổi tên thành “Hoc tap”\n- Bước 3. Trong thư mục “Hoc tap”, thực hiện thao tác tạo thư mục mới như bước 1 và 2 sau đó thay đổi tên thành “Toan”\n- Bước 4. Trong thư mục “Hoc tap”, thực hiện thao tác tạo thư mục mới như bước 1 và 2 sau đó thay đổi tên thành “Tin”",
+          "diem": "0,25\n\n0,25\n\n0,25\n\n0,25"
+        },
+        {
+          "cau": "Câu 1\n(1,0 điểm)",
+          "noi_dung": "a) Máy in thuộc nhóm thiết bị ra.\nb) Máy in của em in ra những ký hiệu không mong muốn và em biết lỗi này do virus gây ra. \n- Em cần phải diệt virus ở máy tính.\n- Vì: Máy in chỉ là thiết bị ra, không lưu trữ và xử lí dữ liệu.",
+          "diem": "0,25\n\n\n0,25\n0,5"
+        },
+        {
+          "cau": "Câu 2\n(1,0 điểm)",
+          "noi_dung": "a) Hệ điều hành và phần mềm ứng dụng có vai trò khác nhau đối với sự vận hành của máy tính là:\n- Hệ điều hành là phần mềm được sử dụng để quản lý các thành phần của máy tính và điều khiển máy tính hoạt động.\n- Phần mềm ứng dụng được dùng để thực hiện yêu cầu xử lý thông tin cụ thể của người sử dụng.\nb) Một số hệ điều hành: Windows 10, Android, iOS,…",
+          "diem": "0,5\n\n0,25\n\n0,25"
+        },
+        {
+          "cau": "Câu 3\n(1,0 điểm)",
+          "noi_dung": "- Bước 1. Trên màn hình cửa sổ ổ đĩa D, nháy phải chuột, chọn New  Folder\n- Bước 2. Một thư mục mới có tên New Folder được tạo ra. Em đổi tên thành “Hoc tap”\n- Bước 3. Trong thư mục “Hoc tap”, thực hiện thao tác tạo thư mục mới như bước 1 và 2 sau đó thay đổi tên thành “Toan”\n- Bước 4. Trong thư mục “Hoc tap”, thực hiện thao tác tạo thư mục mới như bước 1 và 2 sau đó thay đổi tên thành “Tin”",
+          "diem": "0,25\n\n0,25\n\n0,25\n\n0,25"
+        }
+      ]
+    }
+  },
+  "Lớp 6": {
+    "grade": "Lớp 6",
+    "p1_mcq": [
+      {
+        "num": 1,
+        "text": "Phương án nào sau đây KHÔNG nêu đúng ví dụ về vật mang tin?",
+        "options": [
+          "A. Sách giáo khoa\t\t\t\tB. Xô, chậu",
+          "C. Thẻ nhớ\t\t\t\t\tD. Cột đèn giao thông"
+        ]
+      },
+      {
+        "num": 2,
+        "text": "Phương án nào sau đây chỉ ra đúng các bước trong hoạt động thông tin của con người?",
+        "options": [
+          "A. Xử lý thông tin, thu nhận thông tin lưu trữ thông tin, truyền thông tin",
+          "B. Thu nhận thông tin, xử lý thông tin, truyền thông tin, lưu trữ thông tin",
+          "C. Thu nhận thông tin, lưu trữ thông tin, xử lý thông tin, truyền thông tin",
+          "D. Thu nhận thông tin, truyền thông tin, lưu trữ thông tin, xử lý thông tin"
+        ]
+      },
+      {
+        "num": 3,
+        "text": "Các số, văn bản, hình ảnh, âm thanh, … được gọi là gì?",
+        "options": [
+          "A. Lệnh\t\t\t\t\tB. Chỉ dẫn",
+          "C. Thông tin\t   \t\t\t\tD. Dữ liệu"
+        ]
+      },
+      {
+        "num": 4,
+        "text": "Máy tính gồm có bao nhiêu thành phần để có thể thực hiện được các hoạt động của quá trình xử lý thông tin?",
+        "options": [
+          "2\t\t\tB.3\t\t\tC.4\t\t\tD. 5"
+        ]
+      },
+      {
+        "num": 5,
+        "text": "Thao tác ghi nhớ và cất giữ tài liệu của con người được xếp vào hoạt động nào trong quá trình xử li thông tin?",
+        "options": [
+          "A. Thu nhận.      B. Lưu trữ       \tC. Xử lí.           \tD. Truyền."
+        ]
+      },
+      {
+        "num": 6,
+        "text": "Bảng chỉ dẫn là:",
+        "options": [
+          "✂……………………………………………………………………………………………",
+          "A. Vật mang tin\t\t\t\tB. Thông tin",
+          "C. Dữ liệu\t\t\t\t\tD. Vật mang tin, thông tin và dữ liệu"
+        ]
+      },
+      {
+        "num": 7,
+        "text": "(B.A.2) 1 Megabyte xấp xỉ bao nhiêu byte?",
+        "options": [
+          "A. Một nghìn byte\t\t\t\tB. Một triệu byte",
+          "C. Một tỉ byte\t\t\t\tD. Một nghìn tỉ byte"
+        ]
+      },
+      {
+        "num": 8,
+        "text": "Đơn vị đo thông tin nào là nhỏ nhất trong các đơn vị đo dưới đây?",
+        "options": [
+          "A. Byte\t\tB. Megabyte\t\tC. Gigabyte\t\tD. Bit"
+        ]
+      },
+      {
+        "num": 9,
+        "text": "Phát biểu nào sau đây KHÔNG chính xác?",
+        "options": [
+          "A. Mạng không dây thuận tiện cho những người di chuyển nhiều.",
+          "B. Mạng không dây dễ dàng lắp đặt hơn vì không cần khoan đục tường và lắp đặt đường dây.",
+          "C. Mạng không dây không được sử dụng cho các thiết bị di động như máy tính bảng, điện thoại, ...",
+          "D. Mạng không dây giúp người sử dụng có thể truy cập mạng một cách nhanh chóng và dễ dàng"
+        ]
+      },
+      {
+        "num": 10,
+        "text": "Phát biểu nào sau đây là SAI?",
+        "options": [
+          "A. Mạng có dây kết nối các máy tính bằng dây dẫn mạng.",
+          "B. Mạng không dây có thể kết nối ở mọi địa hình.",
+          "C. Mạng không dây không chỉ kết nối các máy tính mà còn cho phép kết nối các thiết bị thông minh khác như điện thoại di động, ti vi, ...",
+          "D. Mạng có dây dễ sửa và lắp đặt hơn mạng không dây vì có thể nhìn thấy dây dẫn."
+        ]
+      },
+      {
+        "num": 11,
+        "text": "Trong trường hợp nào dưới đây mạng không dây tiện dụng hơn mạng có dây?",
+        "options": [
+          "A. Trao đổi thông tin khi di chuyển",
+          "B. Trao đổi thông tin cần tính bảo mật cao",
+          "C. Trao đổi thông tin tốc độ cao",
+          "D. Trao đổi thông tin cần tính ổn định"
+        ]
+      }
+    ],
+    "p2_tf": [
+      {
+        "type": "TF",
+        "num": 1,
+        "text": "Hoa nhìn tờ giấy khen của bạn Nam và thấy nó rất đẹp. Hoạt động của bạn Hoa là:",
+        "items": [
+          "thu nhận thông tin qua vật mang tin.                                                …….",
+          "thu nhận trực tiếp thông tin.                                                              …….",
+          "lưu trữ thông tin.                                                                               …….",
+          "xử lí thông tin.                                                                                   ……."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 2,
+        "text": "Trong máy tính mọi dữ liệu đều được biểu diễn dữ liệu dưới dạng dãy bit. Bạn Nam và bạn Hùng cùng nhau trao đổi về cách biểu diễn thông tin trong máy tính, hai bạn đưa ra một số nhận xét sau:",
+        "items": [
+          "Một bit gồm một dãy gồm nhiều số 0 và 1 ghép lại để biểu diễn một chữ cái  …….",
+          "Trong máy tính, mỗi kí tự là một dãy bit                                                            …….",
+          "Số hoá dữ liệu là chuyển dữ liệu thành các số                                                    …….",
+          "Một đoạn âm thanh không thể biểu diễn bằng dãy bit                                       ……."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 3,
+        "text": "Mạng máy tính và Internet hiện đang phát triển mạnh mẽ trong cuộc sống. Lan và Hoa trao đổi với nhau về các đặc trưng của mạng máy tính và Internet, hai bạn đưa ra một số nhận xét sau:",
+        "items": [
+          "Là một mạng máy tính.                                                                                         …….",
+          "Hiện hữu ở hầu hết các quốc gia, có hàng tỉ người dùng trên toàn thế giới.",
+          "Chủ sở hữu là các công ty tin học lớn như: Microsoft, Facebook, Google,... .    …….",
+          "Hàng tỉ người truy cập và sử dụng.                                                                      …….",
+          "✂……………………………………………………………………………………………",
+          "✂……………………………………………………………………………………………",
+          "Câu 1 (1.0 điểm): Hãy kể tên một số dịch vụ tiêu biểu của mạng máy tính?",
+          "Câu 2 (1.0 điểm): Các bạn An, Minh, Khoa thực hiện khảo sát về việc sử dụng quỹ thời gian hằng ngày sau giờ học. Phiếu được phát ra cho 216 học sinh trong trường. Sau khi thu phiếu và tồng hợp lại các bạn có kết quả như sau:",
+          "Việc các bạn phát phiếu và thu phiếu về thuộc hoạt động nào trong quá trình xử lý thông tin?",
+          "Việc tổng hợp thông tin dưới dạng bảng như trên thuộc những hoạt động nào trong quá trình xử lý thông tin?",
+          "Câu 3 (1.0 điểm): Giả sử một quyển truyện Doraemon gồm 2000 trang, nếu lưu trữ trên đĩa chiếm khoảng 2 MB. Vậy một thẻ nhớ 1 GB có thể chứa bao nhiêu quyển truyện như vậy?",
+          "✂……………………………………………………………………………………………",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          ".........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          ".........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "✂……………………………………………………………………………………………"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 1,
+        "text": "Phương án nào sau đây KHÔNG nêu đúng ví dụ về vật mang tin?",
+        "items": [
+          "A. Sách giáo khoa\t\t\t\tB. Xô, chậu",
+          "C. Thẻ nhớ\t\t\t\t\tD. Cột đèn giao thông"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 2,
+        "text": "Phương án nào sau đây chỉ ra đúng các bước trong hoạt động thông tin của con người?",
+        "items": [
+          "A. Xử lý thông tin, thu nhận thông tin lưu trữ thông tin, truyền thông tin",
+          "B. Thu nhận thông tin, xử lý thông tin, truyền thông tin, lưu trữ thông tin",
+          "C. Thu nhận thông tin, lưu trữ thông tin, xử lý thông tin, truyền thông tin",
+          "D. Thu nhận thông tin, truyền thông tin, lưu trữ thông tin, xử lý thông tin"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 3,
+        "text": "Các số, văn bản, hình ảnh, âm thanh, … được gọi là gì?",
+        "items": [
+          "A. Lệnh\t\t\t\t\tB. Chỉ dẫn",
+          "C. Thông tin\t   \t\t\t\tD. Dữ liệu"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 4,
+        "text": "Máy tính gồm có bao nhiêu thành phần để có thể thực hiện được các hoạt động của quá trình xử lý thông tin?",
+        "items": [
+          "2\t\t\tB.3\t\t\tC.4\t\t\tD. 5"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 5,
+        "text": "Thao tác ghi nhớ và cất giữ tài liệu của con người được xếp vào hoạt động nào trong quá trình xử li thông tin?",
+        "items": [
+          "A. Thu nhận.      B. Lưu trữ       \tC. Xử lí.           \tD. Truyền.",
+          "✂……………………………………………………………………………………………"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 6,
+        "text": "Bảng chỉ dẫn là:A. Vật mang tin\t\t\t\tB. Thông tin",
+        "items": [
+          "C. Dữ liệu\t\t\t\t\tD. Vật mang tin, thông tin và dữ liệu"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 7,
+        "text": "1 Megabyte xấp xỉ bao nhiêu byte?",
+        "items": [
+          "A. Một nghìn byte\t\t\t\tB. Một triệu byte",
+          "C. Một tỉ byte\t\t\t\tD. Một nghìn tỉ byte"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 8,
+        "text": "Đơn vị đo thông tin nào là nhỏ nhất trong các đơn vị đo dưới đây?",
+        "items": [
+          "A. Byte\t\tB. Megabyte\t\tC. Gigabyte\t\tD. Bit"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 9,
+        "text": "Phát biểu nào sau đây KHÔNG chính xác?",
+        "items": [
+          "A. Mạng không dây thuận tiện cho những người di chuyển nhiều.",
+          "B. Mạng không dây dễ dàng lắp đặt hơn vì không cần khoan đục tường và lắp đặt đường dây.",
+          "C. Mạng không dây không được sử dụng cho các thiết bị di động như máy tính bảng, điện thoại, ...",
+          "D. Mạng không dây giúp người sử dụng có thể truy cập mạng một cách nhanh chóng và dễ dàng"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 10,
+        "text": "Phát biểu nào sau đây là SAI?",
+        "items": [
+          "A. Mạng có dây kết nối các máy tính bằng dây dẫn mạng.",
+          "B. Mạng không dây có thể kết nối ở mọi địa hình.",
+          "C. Mạng không dây không chỉ kết nối các máy tính mà còn cho phép kết nối các thiết bị thông minh khác như điện thoại di động, ti vi, ...",
+          "D. Mạng có dây dễ sửa và lắp đặt hơn mạng không dây vì có thể nhìn thấy dây dẫn."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 11,
+        "text": "Trong trường hợp nào dưới đây mạng không dây tiện dụng hơn mạng có dây?",
+        "items": [
+          "A. Trao đổi thông tin khi di chuyển",
+          "B. Trao đổi thông tin cần tính bảo mật cao",
+          "C. Trao đổi thông tin tốc độ cao",
+          "D. Trao đổi thông tin cần tính ổn định"
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 12,
+        "text": "Phát biểu nào sau đây nêu SAI đặc điểm của mạng không dây và mạng có dây?",
+        "items": [
+          "A. Mạng có dây kết nối các máy tính bằng cáp;",
+          "B. Mạng có dây có thể đặt cáp đến bất cứ địa điểm và không gian nào;",
+          "C. Mạng không dây kết nối các máy tính bằng sóng điện từ (sóng vô tuyến);",
+          "D. Mạng không dây không chỉ kết nối các máy tính mà còn cho phép kết nối các điện thoại di động."
+        ]
+      },
+      {
+        "type": "TF",
+        "num": 1,
+        "text": "Bạn Mai nghe thấy tiếng chuông báo vào học vang lên. Hoạt động của bạn Mai là:",
+        "items": []
+      },
+      {
+        "type": "TF",
+        "num": 2,
+        "text": "Trong máy tính, hình ảnh, âm thanh, văn bản đều được mã hoá dưới dạng các số 0 và 1.",
+        "items": []
+      },
+      {
+        "type": "TF",
+        "num": 3,
+        "text": "An nói: “Mạng máy tính cho phép chia sẻ tài nguyên và thông tin giữa các thiết bị.”",
+        "items": []
+      },
+      {
+        "type": "TF",
+        "num": 4,
+        "text": "Để gửi thư điện tử (email) khi đang đi công tác, bạn cần thiết bị nào sau đây có thể kết nối Internet?",
+        "items": [
+          "✂……………………………………………………………………………………………",
+          "Câu 1 (1.0 điểm): Hãy nêu một số dịch vụ giúp người dùng giao tiếp trên mạng máy tính?",
+          "Câu 2 (1.0 điểm): Các bạn An, Minh, Khoa thực hiện khảo sát về việc sử dụng quỹ thời gian hằng ngày sau giờ học. Phiếu được phát ra cho 216 học sinh trong trường. Sau khi thu phiếu và tồng hợp lại các bạn có kết quả như sau:",
+          "Việc các bạn phát phiếu và thu phiếu về thuộc hoạt động nào trong quá trình xử lý thông tin?",
+          "Việc tổng hợp thông tin dưới dạng bảng như trên thuộc những hoạt động nào trong quá trình xử lý thông tin?",
+          "Câu 3 (1.0 điểm): Giả sử một quyển truyện Doraemon gồm 2000 trang, nếu lưu trữ trên đĩa chiếm khoảng 2 MB. Vậy một thẻ nhớ 1 GB có thể chứa bao nhiêu quyển truyện như vậy?",
+          "✂……………………………………………………………………………………………",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          ".........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          ".........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "..........................................................................................................................................................",
+          "A. Phần trắc nghiệm: (7 điểm)"
+        ]
+      }
+    ],
+    "p3_essay": [],
+    "answers": {
+      "p1": {
+        "1": "D",
+        "2": "A",
+        "3": "C",
+        "4": "B",
+        "5": "D",
+        "6": "C",
+        "7": "A",
+        "8": "D",
+        "9": "B",
+        "10": "C",
+        "11": "B",
+        "12": "D"
+      },
+      "p2": {
+        "1": {
+          "A": "S",
+          "B": "Đ",
+          "C": "S",
+          "D": "S"
+        },
+        "2": {
+          "A": "Đ",
+          "B": "S",
+          "C": "Đ",
+          "D": "S"
+        },
+        "3": {
+          "A": "Đ",
+          "B": "S",
+          "C": "S",
+          "D": "S"
+        },
+        "4": {
+          "A": "S",
+          "B": "Đ",
+          "C": "S",
+          "D": "S"
+        }
+      },
+      "p3": [
+        {
+          "cau": "Câu 1",
+          "noi_dung": "- Công cụ tra cứu, tìm kiếm thông tin. \n- Hộp thư điện tử và trò chuyện qua Internet. \n- Mạng xã hội. \n- Dịch vụ lưu trữ và chia sẻ tài nguyên.",
+          "diem": "0.25\n\n0.25\n\n0.25\n      0.25"
+        },
+        {
+          "cau": "Câu 2",
+          "noi_dung": "a. Việc các bạn phát phiếu và thu phiếu về thuộc hoạt động thu nhận thông tin.\nb. Việc tổng hợp thông tin dưới dạng bảng như trên thuộc các hoạt động xử lí và lưu trữ thông tin.",
+          "diem": "0.5 \n\n0.5"
+        },
+        {
+          "cau": "Câu 3",
+          "noi_dung": "1 (GB) = 1024 (MB)\nVậy thì một thẻ nhớ 1 GB có thể chứa được 1024 : 2 = 512 (quyển)",
+          "diem": "0.5\n0.5"
+        },
+        {
+          "cau": "Câu 1",
+          "noi_dung": "Công cụ tìm kiếm và tra cứu thông tin trên mạng.\nDịch vụ thư điện tử và trò chuyện trực tuyến.\nCác nền tảng mạng xã hội.\nDịch vụ lưu trữ và chia sẻ dữ liệu trên Internet.",
+          "diem": "0.25\n\n0.25\n     0.25\n\n0.25"
+        },
+        {
+          "cau": "Câu 2",
+          "noi_dung": "a. Việc các bạn phát phiếu và thu phiếu về thuộc hoạt động thu nhận thông tin.\nb. Việc tổng hợp thông tin dưới dạng bảng như trên thuộc các hoạt động xử lí và lưu trữ thông tin.",
+          "diem": "0.5 \n\n0.5"
+        },
+        {
+          "cau": "Câu 3",
+          "noi_dung": "1 (GB) = 1024 (MB)\nVậy thì một thẻ nhớ 1 GB có thể chứa được 1024 : 2 = 512 (quyển)",
+          "diem": "0.5\n0.5"
+        }
+      ]
+    }
+  }
+}
